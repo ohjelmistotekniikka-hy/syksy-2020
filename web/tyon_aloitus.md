@@ -2,11 +2,11 @@
 
 ## Yleistä
 
-Kurssin pääpainon muodostaa viikolla 2 aloitettava harjoitustyö. Harjoitustyössä toteutetaan itsenäisesti ohjelmisto omavalintaisesta aiheesta. Tavoitteena on soveltaa ja syventää ohjelmoinnin perus- ja jatkokursseilla opittuja taitoja ja harjoitella tiedon omatoimista etsimistä. Harjoitustyötä tehdään itsenäisesti, mutta tarjolla on runsaasti [pajaohjausta](https://github.com/mluukkai/ohjelmistotekniikka-kevat-2020#ajankohtaista).
+Kurssin pääpainon muodostaa viikolla 2 aloitettava harjoitustyö. Harjoitustyössä toteutetaan itsenäisesti ohjelmisto omavalintaisesta aiheesta. Tavoitteena on soveltaa ja syventää ohjelmoinnin perus- ja jatkokursseilla opittuja taitoja ja harjoitella tiedon omatoimista etsimistä. Harjoitustyötä tehdään itsenäisesti, mutta tarjolla on runsaasti [pajaohjausta](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020#ajankohtaista).
 
-Harjoitustyön on edettävä [viikottaisten tavoitteiden mukaan](https://github.com/mluukkai/ohjelmistotekniikka-kevat-2020#aikataulu). Työ on saatava valmiiksi kurssin aikana ja sitä on toteutettava tasaisesti, muuten kurssi katsotaan keskeytetyksi. Samaa ohjelmaa ei voi jatkaa seuraavalla kurssilla (eli keväällä 2019), vaan työ on aloitettava uudella aiheella alusta. Muista varata riittävästi aikaa (10-15h viikossa) koko periodin ajaksi.
+Harjoitustyön on edettävä [viikottaisten tavoitteiden mukaan](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020#aikataulu). Työ on saatava valmiiksi kurssin aikana ja sitä on toteutettava tasaisesti, muuten kurssi katsotaan keskeytetyksi. Samaa ohjelmaa ei voi jatkaa seuraavalla kurssilla (eli keväällä 2019), vaan työ on aloitettava uudella aiheella alusta. Muista varata riittävästi aikaa (10-15h viikossa) koko periodin ajaksi.
 
-Koko kurssin arvostelu perustuu pääasiassa harjoitustyöstä saataviin pisteisiin. Osa pisteistä kertyy [aikatauluun](https://github.com/mluukkai/ohjelmistotekniikka-kevat-2020#aikataulu) määriteltyjen viikoittaisten välitavoitteiden kautta, osa taas perustuu työn lopulliseen palautukseen.
+Koko kurssin arvostelu perustuu pääasiassa harjoitustyöstä saataviin pisteisiin. Osa pisteistä kertyy [aikatauluun](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020#aikataulu) määriteltyjen viikoittaisten välitavoitteiden kautta, osa taas perustuu työn lopulliseen palautukseen.
 
 ## Harjoitustyön toimivuus
 
@@ -26,17 +26,17 @@ Web-sovelluksia kurssilla ei sallita. Sovelluksissa sallitaan toki webissä olev
 
 ## Ohjelman toteutus
 
-Toteutus etenee "iteratiivisesti ja inkrementaalisesti". Tämä tarkoittaa, että heti alussa toteutetaan pieni osa ohjelman toiminnallisuudesta. Ohjelman ydin pidetään koko ajan toimivana, uutta toiminnallisuutta lisäten, kunnes tavoiteltu ohjelman laajuus on saavutettu. Ohjelman rakenteeseen kannattaa kysyä vinkkejä pajasta, sekä ottaa mallia ohjelmoinnin jatkokurssin harjoitustehtävistä ja materiaalista. Muutamia vihjeitä on myös kurssin [referenssiprojektissa](https://github.com/mluukkai/OtmTodoApp) sekä [täällä](https://github.com/mluukkai/ohjelmistotekniikka-kevat-2020/blob/master/web/java.md).
+Toteutus etenee "iteratiivisesti ja inkrementaalisesti". Tämä tarkoittaa, että heti alussa toteutetaan pieni osa ohjelman toiminnallisuudesta. Ohjelman ydin pidetään koko ajan toimivana, uutta toiminnallisuutta lisäten, kunnes tavoiteltu ohjelman laajuus on saavutettu. Ohjelman rakenteeseen kannattaa kysyä vinkkejä pajasta, sekä ottaa mallia ohjelmoinnin jatkokurssin harjoitustehtävistä ja materiaalista. Muutamia vihjeitä on myös kurssin [referenssiprojektissa](https://github.com/mluukkai/OtmTodoApp) sekä [täällä](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/web/java.md).
 
 Iteratiiviseen tapaan tehdä ohjelma liittyy kiinteästi automatisoitu testaus. Aina uutta toiminnallisuutta lisättäessä ja vanhaa muokatessa täytyy varmistua, että kaikki vanhat ominaisuudet toimivat edelleen. Kaiken testaaminen käsin uudelleen ja uudelleen ei ole ajankäytöllisesti järkevää, ja siksi ohjelmakoodille onkin syytä laatia jatkuvasti testejä ohjelmoinnin edetessä. Testit on syytä pitää kattavina ja ajan tasalla.
 
-Jotta ohjelmaa pystyisi testaamaan, on tärkeää että sovelluslogiikkaa [ei kirjoiteta käyttöliittymän sekaan](https://github.com/mluukkai/ohjelmistotekniikka-kevat-2020/blob/master/web/java.md)!
+Jotta ohjelmaa pystyisi testaamaan, on tärkeää että sovelluslogiikkaa [ei kirjoiteta käyttöliittymän sekaan](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/web/java.md)!
 
-Eräs mahdollisuus on tehdä aluksi tekstikäyttöliittymän ja vasta saatuasi ohjelman perustoiminnallisuuden toteutettua voit siirtyä graafisen käyttöliittymän toteutukseen. Graafinen käyttöliittymä on mahdollista myös jättää pois, mutta tämä [vaikuttaa arvosanaan](https://github.com/mluukkai/ohjelmistotekniikka-kevat-2020/blob/master/web/arvosteluperusteet.md).
+Eräs mahdollisuus on tehdä aluksi tekstikäyttöliittymän ja vasta saatuasi ohjelman perustoiminnallisuuden toteutettua voit siirtyä graafisen käyttöliittymän toteutukseen. Graafinen käyttöliittymä on mahdollista myös jättää pois, mutta tämä [vaikuttaa arvosanaan](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/web/arvosteluperusteet.md).
 
-Graafisen käyttöliittymän toteuttamiseen kannattaa oletusarvoisesti käyttää JavaFX:ää, jonka käytön perusteet esitellään [Ohjelmoinnin jatkokurssilla](https://materiaalit.github.io/ohjelmointi-s17/part11/). Muutamia vihjeitä liittyen JavaFX:ään [täällä](https://github.com/mluukkai/ohjelmistotekniikka-kevat-2020/blob/master/web/java.md).
+Graafisen käyttöliittymän toteuttamiseen kannattaa oletusarvoisesti käyttää JavaFX:ää, jonka käytön perusteet esitellään [Ohjelmoinnin jatkokurssilla](https://materiaalit.github.io/ohjelmointi-s17/part11/). Muutamia vihjeitä liittyen JavaFX:ään [täällä](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/web/java.md).
 
-[Arvosanan kannalta suositeltavaa](https://github.com/mluukkai/ohjelmistotekniikka-kevat-2020/blob/master/web/arvosteluperusteet.md) on, että ohjelmasi tallettaa dataa joko tiedostoon tai tietokantaan. Vihjeitä tiedon tallettamiseen [täällä](https://github.com/mluukkai/ohjelmistotekniikka-kevat-2020/blob/master/web/java.md).
+[Arvosanan kannalta suositeltavaa](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/web/arvosteluperusteet.md) on, että ohjelmasi tallettaa dataa joko tiedostoon tai tietokantaan. Vihjeitä tiedon tallettamiseen [täällä](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/web/java.md).
 
 Harjoitustyön tavoitteena on tuottaa ohjelma, joka voitaisiin antaa toiselle opiskelijalle ylläpidettäväksi ja täydennettäväksi. Lopullisessa palautuksessa on oltava lähdekoodin lisäksi dokumentaatio ja automaattiset testit sekä jar-tiedosto, joka mahdollistaa ohjelman suorittamisen NetBeansin ulkopuolella.
 
@@ -125,9 +125,9 @@ Oman aiheen ei ole pakko olla allaolevasta listasta. Listassa on kuitenkin erila
 
 ## Harjoitustyön aloitus
 
-Harjoitustyö siis aloitetaan kurssin [toisella viikolla](https://github.com/mluukkai/ohjelmistotekniikka-kevat-2020/blob/master/tehtavat/harjoitustyo_viikko2.md).
+Harjoitustyö siis aloitetaan kurssin [toisella viikolla](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/tehtavat/harjoitustyo_viikko2.md).
 
-Työ tehdään samaan repositorioon, jonka olet rekisteröinyt Labtooliin ja johon olet jo tehnyt [viikon 1 laskareiden](https://github.com/mluukkai/ohjelmistotekniikka-kevat-2020/blob/master/tehtavat/viikko1.md) palautuksen.
+Työ tehdään samaan repositorioon, jonka olet rekisteröinyt Labtooliin ja johon olet jo tehnyt [viikon 1 laskareiden](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/tehtavat/viikko1.md) palautuksen.
 
 ### GitHubissa olevan repositorion kloonaaminen
 
@@ -135,9 +135,9 @@ Jos haluat tehdä harjoitustyötä eri koneella, kuin mille teit repositoriosi a
 
 Koneeseesi täytyy luonnollisesti [ensin asentaa](https://git-scm.com/downloads) git jos se ei ole jo koneellasi.
 
-- Muista myös [oleellisten konfiguraatioiden](https://github.com/mluukkai/ohjelmistotekniikka-kevat-2020/blob/master/tehtavat/viikko1.md#konfiguraatioita) tekeminen
+- Muista myös [oleellisten konfiguraatioiden](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/tehtavat/viikko1.md#konfiguraatioita) tekeminen
 
-Koneesi julkinen avain on talletettava GitHubiin. Ohje avaimen generointiin ja tallettamiseen [täällä](https://github.com/mluukkai/ohjelmistotekniikka-kevat-2020/blob/master/tehtavat/viikko1.md#julkinen-avain).
+Koneesi julkinen avain on talletettava GitHubiin. Ohje avaimen generointiin ja tallettamiseen [täällä](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/tehtavat/viikko1.md#julkinen-avain).
 
 Kloonaus tapahtuu seuraavasti
 
@@ -230,7 +230,7 @@ Harjoitustyössä tehtävä ohjelmisto tehdään maven-projektina. Projektin luo
 - valitse _new project_ ja tee seuraavat valinnat:
   <img src="https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/master/web/images/a-3.png">
 
-- Vaikka käyttäisit JavaFX:ää, kannattaa projektia varten silti luoda "normaali" maven-projekti ellet päätä käyttää [FXML:ää](https://github.com/mluukkai/ohjelmistotekniikka-kevat-2020/blob/master/web/java.md#fxml)
+- Vaikka käyttäisit JavaFX:ää, kannattaa projektia varten silti luoda "normaali" maven-projekti ellet päätä käyttää [FXML:ää](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/web/java.md#fxml)
 
 - määrittele kentän _Project location_ arvoksi repositoriosi juuri
   <img src="https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/master/web/images/a-4.png" width="600">
@@ -245,7 +245,7 @@ Pokemontietokanta/target
 - varmista että GitHub-näkymä näyttää suunilleen seuraavalta
   <img src="https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/master/web/images/a-5.png" width="600">
 
-Pääset oletusarvoisella konfiguraatiolla alkuun. Lisää ohjeita mavenin konfigurointiin [täällä](https://github.com/mluukkai/ohjelmistotekniikka-kevat-2020/blob/master/web/maven.md)
+Pääset oletusarvoisella konfiguraatiolla alkuun. Lisää ohjeita mavenin konfigurointiin [täällä](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/web/maven.md)
 
 ## Työaikakirjanpito
 

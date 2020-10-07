@@ -26,7 +26,7 @@ Tehtävänäsi on lukea läpi toisen opiskelijan harjoitustyö ja antaa siitä r
   - Ole sinnikäs: kaikkea ei aina osaa, eikä tarvitsekaan ymmärtää!
   - Haastavin osuus lienee luokkien suhde toisiinsa. Käytä hyväksesi koodista tehtyjä luokkakaavioita
 
-Kun olet tutustunut riittävän tarkasti katselmoitavaan projektiin, on aika antaa toiselle koodista palaute. Palautteessa ei tarvitse ottaa kantaa ohjelman dokumentointiin, ulkonäköön tai toimivuuteen. Tärkeintä on kiinnittää huomiota Ohjelmoinnin perusteissa ja Ohjelmoinnin jatkokurssilla opittuihin hyviin käytänteisiin sekä tällä kurssilla noudatettaviin [koodin laatuvaatimuksiin](https://github.com/mluukkai/ohjelmistotekniikka-kevat-2020/blob/master/web/koodin_laatuvaatimukset.md).
+Kun olet tutustunut riittävän tarkasti katselmoitavaan projektiin, on aika antaa toiselle koodista palaute. Palautteessa ei tarvitse ottaa kantaa ohjelman dokumentointiin, ulkonäköön tai toimivuuteen. Tärkeintä on kiinnittää huomiota Ohjelmoinnin perusteissa ja Ohjelmoinnin jatkokurssilla opittuihin hyviin käytänteisiin sekä tällä kurssilla noudatettaviin [koodin laatuvaatimuksiin](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/web/koodin_laatuvaatimukset.md).
 
 ## Palautteenanto
 

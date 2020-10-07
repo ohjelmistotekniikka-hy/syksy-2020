@@ -16,7 +16,7 @@
 
 . . .
 
-- Kurssimateriaali https://github.com/mluukkai/ohjelmistotekniikka-kevat-2020
+- Kurssimateriaali https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020
 
 # Suoritusmuoto
 
@@ -189,7 +189,7 @@ Vaatimusten kirjaamisesta voi ottaa tarkemmin mallia sovelluksen GitHub-reposito
 
 - _Järjestelmätestauksessa_ testataan ohjelmistoa kokonaisuutena ja verrataan, että se toimii vaatimusdokumentissa sovitun määritelmän mukaisesti
   - järjestelmätestaus suoritetaan ohjelman todellisen käyttöliittymän kautta
-ja saattaa tapahtua erillisen laadunhallintatiimin toimesta
+    ja saattaa tapahtua erillisen laadunhallintatiimin toimesta
 
 # Vesiputousmalli
 

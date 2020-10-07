@@ -8,17 +8,17 @@ Muista pushata tehtävät GitHubiin ennen viikkodeadlinea. Myöhässä tehty pal
 
 ## Alustava määrittelydokumentti
 
-Harjoitustyön tekeminen aloitetaan päättämällä aihe ja kuvaamalla se _alustavassa määrittelydokumentissa_, eli työlle tehdään [vaatimusmäärittely](https://github.com/mluukkai/ohjelmistotekniikka-kevat-2020/blob/master/web/materiaali.md#vaatimusmäärittely).
+Harjoitustyön tekeminen aloitetaan päättämällä aihe ja kuvaamalla se _alustavassa määrittelydokumentissa_, eli työlle tehdään [vaatimusmäärittely](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/web/materiaali.md#vaatimusmäärittely).
 
-Aihetta miettiessäsi kannattaa ehdottomasti lukea [ohjeet työn aloittamiseen](https://github.com/mluukkai/ohjelmistotekniikka-kevat-2020/blob/master/web/tyon_aloitus.md).
+Aihetta miettiessäsi kannattaa ehdottomasti lukea [ohjeet työn aloittamiseen](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/web/tyon_aloitus.md).
 
-- Huomaa, että harjoitustyön koodi tulee toteuttaa [maven](https://github.com/mluukkai/ohjelmistotekniikka-kevat-2020/blob/master/web/tyon_aloitus.md#maven-projektin-luominen)-muotoisena projektina
+- Huomaa, että harjoitustyön koodi tulee toteuttaa [maven](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/web/tyon_aloitus.md#maven-projektin-luominen)-muotoisena projektina
 
 Mikään ei tietenkään estä sitä, että aloitat jo ohjelmoinnin tai vaikkapa koodaat koko työn valmiiksi. Viikon 2 deadlinen pisteytyksessä ollaan kiinnostuneita ainoastaan määrittelydokumentista.
 
 **HUOM** jos aloitat jo ohjelmoinnin, muista että ohjelmakoodi tulee kirjoittaa englanniksi! Ohjelman käyttöliittymä ja dokumentaatio voivat olla suomeksi tai englanniksi. Ainoa sallittu ohjelmointikieli on Java
 
-Palautus tapahtuu lisäämällä oman aiheen _alustava määrittelydokumentti_ ensimmäisen viikon [laskareiden](https://github.com/mluukkai/ohjelmistotekniikka-kevat-2020/blob/master/tehtavat/viikko1.md#labtool) päätteeksi [labtooliin](https://study.cs.helsinki.fi/labtool/courses/TKT20002.2019.S.K.1) rekisteröimääsi palautusrepositorioon.
+Palautus tapahtuu lisäämällä oman aiheen _alustava määrittelydokumentti_ ensimmäisen viikon [laskareiden](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/tehtavat/viikko1.md#labtool) päätteeksi [labtooliin](https://study.cs.helsinki.fi/labtool/courses/TKT20002.2019.S.K.1) rekisteröimääsi palautusrepositorioon.
 
 Määrittelydokumentti tehdään samaan tapaan kuin [referenssiprojektista](https://github.com/mluukkai/OtmTodoApp) eli [markdown](https://guides.github.com/features/mastering-markdown/)-muodossa, sijoitetaan repositorion hakemistoon _dokumentaatio_ ja siihen tulee olla linkki repositorion README.md:stä.
 
