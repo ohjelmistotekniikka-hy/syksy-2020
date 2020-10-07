@@ -198,7 +198,7 @@ Vaatimusten kirjaamisesta voi ottaa tarkemmin mallia sovelluksen GitHub-reposito
 . . .
 
 - Vesiputousmallissa edellä esitellyt ohjelmistotuotannon vaiheet suoritetaan peräkkäin
-  ![](https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/master/web/images/l-1.png){ width=400 }
+  ![](https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/main/web/images/l-1.png){ width=400 }
 
 . . .
 
@@ -239,7 +239,7 @@ Vaatimusten kirjaamisesta voi ottaa tarkemmin mallia sovelluksen GitHub-reposito
 
 # Ketterä ohjelmistokehitys
 
-![](https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/master/web/images/l-2.png){ width=400 }
+![](https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/main/web/images/l-2.png){ width=400 }
 
 . . .
 
@@ -292,19 +292,19 @@ Teemme kurssin harjoitustyötä ketterässä hengessä viikon mittaisilla iteraa
 - Javassa lähdekoodi dokumentoidaan käyttäen _JavaDoc_-työkalua
 - Dokumentointi tapahtuu kirjoittamalla koodin yhteyteen sopivasti muotoiltuja kommentteja
 
-![](https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/master/web/images/k-1.png){ width=400 }
+![](https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/main/web/images/k-1.png){ width=400 }
 
 # JavaDoc
 
 Sovelluksen JavaDocia voi tarkastella selaimen avulla
 
-![](https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/master/web/images/l-7.png){ width=400 }
+![](https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/main/web/images/l-7.png){ width=400 }
 
 # JavaDoc
 
 NetBeans osaa näyttää ohjelmoidessa koodiin määritellyn JavaDocin
 
-![](https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/master/web/images/l-14.png)
+![](https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/main/web/images/l-14.png)
 
 #
 
@@ -350,13 +350,13 @@ public class Todo {
 - Yhdellä käyttäjällä voi olla montoa Todoa
 - Todo liittyy aina yhteen käyttäjään
 
-![](https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/master/web/images/l-3a.png){ width=450 }
+![](https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/main/web/images/l-3a.png){ width=450 }
 
 # Todo-sovelluksen tietosisällön luokkakaavio
 
 - Yleensä ei ole mielekästä kuvata luokkia tällä tarkkuudella, eli **luokkakaavioihin riittää merkitä luokan nimi**
 
-![](https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/master/web/images/l-4.png){ width=300 }
+![](https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/main/web/images/l-4.png){ width=300 }
 
 - Kaaviota parempi paikka metodien kuvaamiselle on koodiin liittyvä JavaDoc-dokumentaatio
 
@@ -364,7 +364,7 @@ public class Todo {
 
 - Jos Todo-sovelluksessa olisi normaalin käyttäjän eli luokan _User_ perivä ylläpitäjää kuvaava luokka _SuperUser_, merkattaisiin se luokkakaavioon seuraavasti
 
-![](https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/master/web/images/l-9.png){ width=300 }
+![](https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/main/web/images/l-9.png){ width=300 }
 
 - Rajapinnan toteutus merkitään samalla tavalla eli valkoisella nuolenpäällä
 
@@ -378,7 +378,7 @@ public class Todo {
 
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
-![](https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/master/web/images/k-2.png){ width=150 }
+![](https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/main/web/images/k-2.png){ width=150 }
 :::
 ::: {.column width="50%"}
 
@@ -391,10 +391,10 @@ public class Todo {
 
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
-![](https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/master/web/images/k-2.png){ width=150 }
+![](https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/main/web/images/k-2.png){ width=150 }
 :::
 ::: {.column width="50%"}
-![](https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/master/web/images/l-11.png){ width=100 }
+![](https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/main/web/images/l-11.png){ width=100 }
 :::
 ::::::::::::::
 
@@ -408,7 +408,7 @@ public class Todo {
 . . .
 
 - Esim. Ohpen Unicafe-tehtävä
-  ![](https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/master/web/images/l-15.png){ width=400 }
+  ![](https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/main/web/images/l-15.png){ width=400 }
 - Vaikka kaavioon on nyt merkitty metodien nimet, ei ohjelman toimintalogiikka selviä kaaviosta
 - Esim. mitä tapahtuu, kun maksukortilla jolla on rahaa 3 euroa, ostataan edullinen lounas?
 
@@ -437,7 +437,7 @@ public boolean syoEdullisesti(Maksukortti kortti) {
 
 # Onnistunut ostos sekvenssikaaviona
 
-![](https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/master/web/images/l-16.png){ width=300 }
+![](https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/main/web/images/l-16.png){ width=300 }
 
 - Oliot ovat laatikoita joista lähtee alas "elämänlanka"
 - Aika etenee ylhäältä alas
@@ -448,7 +448,7 @@ public boolean syoEdullisesti(Maksukortti kortti) {
 
 Mitä tapahtuu, jos maksukortin saldo on 2 euroa, eli vähemmän kuin lounaan hinta:
 
-![](https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/master/web/images/l-17.png){ width=300 }
+![](https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/main/web/images/l-17.png){ width=300 }
 
 . . .
 

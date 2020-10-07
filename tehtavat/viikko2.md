@@ -12,11 +12,11 @@ Tee palautuksia varten repositorion sisällä olevaan hakemistoon _laskarit_ uus
 
 Viikon palautuksista on tarjolla 2 pistettä. Pisteytys arvioidaan palautuksen laadun perusteella.
 
-Huomaa, että tällä viikolla on myös harjoitustyöhön liittyviä [tavoitteita](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/tehtavat/harjoitustyo_viikko2.md)
+Huomaa, että tällä viikolla on myös harjoitustyöhön liittyviä [tavoitteita](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/tehtavat/harjoitustyo_viikko2.md)
 
 ## 1
 
-- tutustu [JUnit-ohjeeseen](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/web/junit.md)
+- tutustu [JUnit-ohjeeseen](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/web/junit.md)
 - lukiessasi tee testit myös itse
 - lisää lopuksi maksukortille seuraavat testit:
   - maukkaan lounaan syöminen ei vie saldoa negatiiviseksi, ota tähän mallia testistä syoEdullisestiEiVieSaldoaNegatiiviseksi
@@ -155,7 +155,7 @@ public class Kassapaate {
 Avaa terminaali, mene palautusrepositoriosi hakemistoon _laskarit/viikko2_ ja suorita seuraavat komennot:
 
 ```bash
-wget https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/master/misc/Unicafe.zip
+wget https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/main/misc/Unicafe.zip
 unzip Unicafe.zip
 rm Unicafe.zip
 ```
@@ -177,7 +177,7 @@ Olemme tähän asti suorittaneet testit NetBeansilla. Kokeillaan nyt miten testi
 
 - mene hakemistoon, jossa projekti sijaitsee
   - **Huom** seuraavassa oletetaan että koneellesi on asennettu [maven](https://maven.apache.org/), laitoksen koneilla ja fuksikannettavissa maven löytyy valmiiksi, Linuxiin sekä OSX:n se on helppo asentaa, kenties myös Windowsiin
-  - jos et jostain syystä saa mavenia toimimaan komentoriviltä, niin voit käyttää sitä NetBeansin kautta [tämän](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/tehtavat/viikko2.md#maven-komentojen-suorittaminen-netbeansista) ohjeen avulla
+  - jos et jostain syystä saa mavenia toimimaan komentoriviltä, niin voit käyttää sitä NetBeansin kautta [tämän](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/tehtavat/viikko2.md#maven-komentojen-suorittaminen-netbeansista) ohjeen avulla
 - suorita testit antamalla komento _mvn test_
   - huomaa, että komento _mvn_ tulee antaa aina projektin juurihakemistossa, eli samassa hakemistossa, jossa sijaitsee tiedosto _pom.xml_
   - muista, että näet hakemiston sisällön komennolla _ls_
@@ -325,7 +325,7 @@ _jacoco_ suoritetaan komentoriviltä (projektihakemistossa ollessasi) komennolla
 
 Tulokset tulevat projektihakemistosi alihakemistoon **target/site/jacoco/index.html**. Avaa tulokset web-selaimella:
 
-<img src="https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/master/web/images/v2-4.png" width="800">
+<img src="https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/main/web/images/v2-4.png" width="800">
 
 Useilla selaimilla tämä tapahtuu komennolla **open file**. Laitoksen koneella voit myös avata selaimen terminaalissa menemällä ensin projektihakemistoon ja antamalla komennon **chromium-browser target/site/jacoco/index.html**
 
@@ -335,11 +335,11 @@ Useilla selaimilla tämä tapahtuu komennolla **open file**. Laitoksen koneella 
 
 Maven-komentoja on mahdollista suorittaa myös NetBeansin kautta. Tämä tapahtuu klikkaamalla projektin kohdalla hiiren oikealla napilla:
 
-<img src="https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/master/web/images/v2-6.png" width="600">
+<img src="https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/main/web/images/v2-6.png" width="600">
 
 "Remember as"-toiminnolla voit tallettaa konfiguroidun maven-komentosarjan:
 
-<img src="https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/master/web/images/v2-5.png" width="600">
+<img src="https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/main/web/images/v2-5.png" width="600">
 
 ## 4 Maven-projektin hakemistorakenne
 
@@ -378,6 +378,6 @@ Varmista jacocon avulla, että kassapäätteen testeillä on 100% lause- ja haar
 
 ## 7
 
-Talleta kohdassa [testikattavuus](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/tehtavat/viikko2.md#3-testauskattavuus) olevan kuvan tyylinen [screenshot](https://www.take-a-screenshot.org/) projektisi kattavuusraportista palautusrepositoriosi hakemistoon _laskarit/viikko2_.
+Talleta kohdassa [testikattavuus](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/tehtavat/viikko2.md#3-testauskattavuus) olevan kuvan tyylinen [screenshot](https://www.take-a-screenshot.org/) projektisi kattavuusraportista palautusrepositoriosi hakemistoon _laskarit/viikko2_.
 
 **Muista tallentaa tekemäsi muutokset gitiin ja työntää ne Githubiin (_git push_).**

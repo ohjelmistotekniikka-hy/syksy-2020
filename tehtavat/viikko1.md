@@ -52,7 +52,7 @@ Kirjauduttuasi laitoksen palvelimelle, tee seuraavat toimenpiteet:
 - ja luomallesi hakemistolle alihakemisto _viikko1_
 - mene kotihakemistoosi ja luo sen alle hakemisto _temp_
 - mene hakemistoon _temp_
-- hae osoitteessa _https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/master/misc/Unicafe.zip_ oleva tiedosto [wget](https://en.wikipedia.org/wiki/Wget)-ohjelmalla
+- hae osoitteessa _https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/main/misc/Unicafe.zip_ oleva tiedosto [wget](https://en.wikipedia.org/wiki/Wget)-ohjelmalla
   - wget toimii siten, että sille annetaan ladattava tiedosto parametriksi
 - haettu tiedosto on _zip-paketti_, pura se _unzip_-ohjelmalla
   - myös unzip toimii siten, että sille annetaan purettava tiedosto parametriksi
@@ -322,7 +322,7 @@ Vasemmalla yläkulmassa näet kaikki commitit. Uusin tilanne ylimpänä. Uusimma
 
 Vastaava näkymä OSX:n [Sourcetree](https://www.sourcetreeapp.com)-ohjelmalla tarkasteltaessa:
 
-![](https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/master/web/images/lh1-1a.png)
+![](https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/main/web/images/lh1-1a.png)
 
 Seuraavaa tehtävää tekiessäsi kannattaa terminaaliin avata uusi välilehti, jotta voit pitää gitk:ta käynnissä.
 
@@ -476,7 +476,7 @@ Siirrytään sitten GitHubin käyttöön
   - uuden repositorion luomistoiminto löytyy vasemman ylänurkan plus-symboolin alta
 - **Älä laita rastia** kohtaan _Initialize this repository with a README_
 
-![](https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/master/web/images/lh1-2a.png)
+![](https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/main/web/images/lh1-2a.png)
 
 - luo repositorio painamalla vihreää _Create repository_ -nappia
 
@@ -485,7 +485,7 @@ Seuraavaksi haluamme liittää GitHubiin luodun repositorion juuri luodun paikal
 - etärepositorion lisääminen onnistuu GitHubiin avautuvan näkymän ohjeiden mukaan
 - varmista, että kohdasta "Quick setup..." on valittu **SSH**
 
-![](https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/master/web/images/lh1-3a.png)
+![](https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/main/web/images/lh1-3a.png)
 
 - kopioi ylempi rivi kohdasta _...or push an existing repository from the command line_
 - omassa esimerkissäni rivi on
@@ -521,7 +521,7 @@ and the repository exists.
 
 ## Julkinen avain
 
-Jos olet jo asettanut julkisen avaimen esim. Tietokantojen perusteissa, pushauksen pitäisi toimia ja voit siirtyä [seuraavaan kohtaan](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/tehtavat/viikko1.md#Lisää-tiedostoja).
+Jos olet jo asettanut julkisen avaimen esim. Tietokantojen perusteissa, pushauksen pitäisi toimia ja voit siirtyä [seuraavaan kohtaan](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/tehtavat/viikko1.md#Lisää-tiedostoja).
 
 Pushaus ei toimi. Nyt kyse on siitä, että git haluaisi suorittaa [julkisen avaimen](https://the.earth.li/~sgtatham/putty/0.55/htmldoc/Chapter8.html) autentikoinnin. Se ei kuitenkaan onnistu koska emme ole kertoneet gitille julkista salausavaintamme.
 
@@ -581,7 +581,7 @@ Branch master set up to track remote branch master from origin.
   - tiedostojen urlin saat navigoimalla GitHubissa tiedostoon ja kopioimalla osoitteen selaimen osoiteriviltä
 - Repositoriosi tulee näyttää suunnilleen seuraavalta
 
-![](https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/master/web/images/lh1-4a.png)
+![](https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/main/web/images/lh1-4a.png)
 
 - jos teit kaiken oikein, pääset README.md:ssä olevia linkkejä klikkaamalla näkemään linkitettyjen tiedostojen sisällön
 

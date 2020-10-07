@@ -1,8 +1,8 @@
-# Kirjoitusvirheitä 
+# Kirjoitusvirheitä
 
 Jos huomaat kurssimateriaalissa kirjoitusvirheitä, kirjaudu GitHubiin, paina sivulla olevaa kynä-symbolia:
 
-![](https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/master/web/images/l-0.png)
+![](https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/main/web/images/l-0.png)
 
 korjaa virhe ja ehdota muutosta (nappi sivun alalaidassa):
 

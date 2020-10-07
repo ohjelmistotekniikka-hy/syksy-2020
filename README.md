@@ -12,11 +12,11 @@ Kurssin arvostelu perustuu pääasiassa harjoitustyöstä saataviin pisteisiin. 
 
 Kurssilla ei ole koetta. Harjoitustyö tulee tehdä kurssin aikataulujen puitteissa. Kesken jäänyttä harjoitustyötä ei voi jatkaa seuraavalla kurssilla (keväällä 2021), joten **muista varata riittävästi aikaa (10-15h viikossa) koko periodin ajaksi!**
 
-Tarkemmat arvosteluperusteet [täällä](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/web/arvosteluperusteet.md).
+Tarkemmat arvosteluperusteet [täällä](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/web/arvosteluperusteet.md).
 
 ## Kirjoitusvirheitä
 
-Jos huomaat tehtävissä tai muussa materiaalissa kirjoitusvirheitä, kirjaudu GitHubiin ja toimi [täällä](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/web/typokorjaukset.md) olevan ohjeen mukaan.
+Jos huomaat tehtävissä tai muussa materiaalissa kirjoitusvirheitä, kirjaudu GitHubiin ja toimi [täällä](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/web/typokorjaukset.md) olevan ohjeen mukaan.
 
 ## Ajankohtaista
 
@@ -45,29 +45,29 @@ Jos huomaat tehtävissä tai muussa materiaalissa kirjoitusvirheitä, kirjaudu G
 
 ## Linkkejä
 
-- [Kurssimateriaali](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/web/materiaali.md)
+- [Kurssimateriaali](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/web/materiaali.md)
 - Viikoittaiset palautukset
 
-  - viikko 1 [laskarit](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/tehtavat/viikko1.md)
-  - viikko 2 [laskarit](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/tehtavat/viikko2.md) ja [harjoitustyö](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/tehtavat/harjoitustyo_viikko2.md)
-  - viikko 3 [laskarit](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/tehtavat/viikko3.md) ja [harjoitustyö](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/tehtavat/harjoitustyo_viikko3.md)
-  - viikko 4 [harjoitustyö](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/tehtavat/harjoitustyo_viikko4.md)
-  - viikko 5 [harjoitustyö](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/tehtavat/harjoitustyo_viikko5.md)
-  - viikko 6 [harjoitustyö](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/tehtavat/harjoitustyo_viikko6.md)
-  - viikko 7 [harjoitustyö](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/tehtavat/harjoitustyo_viikko7.md)
+  - viikko 1 [laskarit](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/tehtavat/viikko1.md)
+  - viikko 2 [laskarit](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/tehtavat/viikko2.md) ja [harjoitustyö](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/tehtavat/harjoitustyo_viikko2.md)
+  - viikko 3 [laskarit](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/tehtavat/viikko3.md) ja [harjoitustyö](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/tehtavat/harjoitustyo_viikko3.md)
+  - viikko 4 [harjoitustyö](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/tehtavat/harjoitustyo_viikko4.md)
+  - viikko 5 [harjoitustyö](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/tehtavat/harjoitustyo_viikko5.md)
+  - viikko 6 [harjoitustyö](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/tehtavat/harjoitustyo_viikko6.md)
+  - viikko 7 [harjoitustyö](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/tehtavat/harjoitustyo_viikko7.md)
 
 - Kurssin referenssisovellus [OtmTodoApp](https://github.com/mluukkai/OtmTodoApp)
   - Sovelluksen tarkoituksena on demonstroida erästä tapaa tehdä suurin piirtein täysiin pisteisiin riittävä dokumentaatio ja testaus projektillesi. Itse ohjelma on sen verran suppea, että saadaksesi kurssilta arvosanan 5 joudut tekemään hieman laajemman sovelluksen.
 - [Labtool](https://study.cs.helsinki.fi/labtool/courses/)
 - Ohjeita
   - Kaikki ohjeista eivät ole kurssin alussa vielä ajankohtaisia. Kaikkeen tärkeään tulee aikanaan linkki laskareihin tai harjoitustöiden viikkotavoitteisiin
-  - [Aiheideoita ja ohjeita työn harjoitustyön aloittamiseen](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/web/tyon_aloitus.md)
-  - [JUnit-ohje](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/web/junit.md)
-  - [Käyttöliittymän ja tietojen tallettamisen toteuttamiseen sekä sovelluksen konfigurointiin liittyviä vihjeitä](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/web/java.md)
-  - [Maven](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/web/maven.md)
-  - [Checkstyle](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/web/checkstyle.md)
-  - [JavaDoc](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/web/javadoc.md)
-  - [koodin laatu](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/web/koodin_laatuvaatimukset.md)
+  - [Aiheideoita ja ohjeita työn harjoitustyön aloittamiseen](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/web/tyon_aloitus.md)
+  - [JUnit-ohje](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/web/junit.md)
+  - [Käyttöliittymän ja tietojen tallettamisen toteuttamiseen sekä sovelluksen konfigurointiin liittyviä vihjeitä](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/web/java.md)
+  - [Maven](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/web/maven.md)
+  - [Checkstyle](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/web/checkstyle.md)
+  - [JavaDoc](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/web/javadoc.md)
+  - [koodin laatu](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/web/koodin_laatuvaatimukset.md)
 - Työkaluja kaavioiden piirtoon
   - <http://yuml.me/> luokkakaaviot
   - <https://www.websequencediagrams.com/> sekvenssikaavioihin
@@ -85,7 +85,7 @@ Palautuksen deadline ti 17.03. klo 23:59
 
 - Tiistaina 10.03. klo 12-14 kurssin aloitustilaisuus Chemicumissa salissa A110
 - Komentorivi- ja Git-harjoittelu (2p)
-  - Pajassa tehtävät tai omatoimiset [tehtävät](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/tehtavat/viikko1.md)
+  - Pajassa tehtävät tai omatoimiset [tehtävät](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/tehtavat/viikko1.md)
 - Tehtävien palautus tapahtuu tekemällä repositorio githubiin ja rekisteröitymällä labtooliin
 
 ### viikko 2
@@ -93,9 +93,9 @@ Palautuksen deadline ti 17.03. klo 23:59
 Palautuksen deadline ti 24.03. klo 23:59
 
 - Harjoitustyön aiheen alustava määrittelydokumentti (1p)
-  - katso tarkemmin [täältä](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/tehtavat/harjoitustyo_viikko2.md)
+  - katso tarkemmin [täältä](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/tehtavat/harjoitustyo_viikko2.md)
 - JUnit-harjoittelu (2p)
-  - Pajassa tehtävät tai omatoimiset [tehtävät](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/tehtavat/viikko2.md)
+  - Pajassa tehtävät tai omatoimiset [tehtävät](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/tehtavat/viikko2.md)
 - Oman projektin koodaus alkaa
 
 ### viikko 3
@@ -103,8 +103,8 @@ Palautuksen deadline ti 24.03. klo 23:59
 Palautuksen deadline ti 31.03. klo 23:59
 
 - Harjoitustyön koodin runko valmiina (2p)
-  - katso tarkemmin [täältä](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/tehtavat/harjoitustyo_viikko3.md)
-- Pajassa tehtävät tai omatoimiset [tehtävät](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/tehtavat/viikko3.md) Luokka- ja sekvenssikaaviosta (1p)
+  - katso tarkemmin [täältä](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/tehtavat/harjoitustyo_viikko3.md)
+- Pajassa tehtävät tai omatoimiset [tehtävät](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/tehtavat/viikko3.md) Luokka- ja sekvenssikaaviosta (1p)
 
 ### viikko 4
 
@@ -115,7 +115,7 @@ Palautuksen deadline ti 07.04. klo 23:59
   - Testien aloitus
   - Alustava rakenne luokkakaaviona
   - Checkstyle otettu käyttöön
-- Tarkemmat ohjeet [täältä](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/tehtavat/harjoitustyo_viikko4.md)
+- Tarkemmat ohjeet [täältä](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/tehtavat/harjoitustyo_viikko4.md)
 
 ### viikko 5
 
@@ -125,9 +125,9 @@ Palautuksen deadline ti 21.04. klo 23:59
   - Release 1
   - Testikattavuus nousee
   - Jotain päätoiminnallisuutta kuvaava sekvenssikaavio
-- Tarkemmat ohjeet [täältä](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/tehtavat/harjoitustyo_viikko5.md)
+- Tarkemmat ohjeet [täältä](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/tehtavat/harjoitustyo_viikko5.md)
 - Koodikatselmointi (2p)
-  - [Koodikatselmointi](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/web/koodikatselmointi.md)
+  - [Koodikatselmointi](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/web/koodikatselmointi.md)
 
 ### viikko 6
 
@@ -138,10 +138,10 @@ Palautuksen deadline ti 28.04. klo 23:59
   - Testikattavuus nousee
   - JavaDoc aloitettu
   - Alustava versio arkkitehtuuridokumentista
-- Tarkemmat ohjeet [täältä](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/tehtavat/harjoitustyo_viikko6.md)
+- Tarkemmat ohjeet [täältä](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/tehtavat/harjoitustyo_viikko6.md)
 
 ### viikko 7
 
 Lopullisen palautuksen deadline su 10.05. klo 23:59
 
-- [loppupalautuksen ohjeet](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/tehtavat/harjoitustyo_viikko7.md)
+- [loppupalautuksen ohjeet](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/tehtavat/harjoitustyo_viikko7.md)

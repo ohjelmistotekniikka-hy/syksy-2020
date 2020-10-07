@@ -4,11 +4,11 @@ Osa ohjelmiston dokumentointia on lähdekoodin API:n eli käytännössä luokkie
 
 Sovelluksen JavaDocia voi tarkastella selaimen avulla
 
-![](https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/master/web/images/l-7.png)
+![](https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/main/web/images/l-7.png)
 
 Myös NetBeans osaa näyttää ohjelmoidessa koodiin määritellyn javadocin:
 
-![](https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/master/web/images/l-14.png)
+![](https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/main/web/images/l-14.png)
 
 Dokumentointi tapahtuu kirjoittamalla koodin yhteyteen sopivasti muotoiltuja kommentteja.
 

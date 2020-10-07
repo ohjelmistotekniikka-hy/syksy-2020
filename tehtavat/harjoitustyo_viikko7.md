@@ -15,7 +15,7 @@ Loppupalautuksen oletetaan sisältävän toimivan ohjelman, testien, konfiguraat
 
 **Päivitä myös viimeistään tässä vaiheessa Labtooliin projektisi nimi vastaamaan projektin aihetta.**
 
-Lue huolellisesti [arvosteluperusteista](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/master/web/arvosteluperusteet.md) mitä loppupalautuksen oletetaan sisältävän dokumentaation ja ohjelmiston osalta!
+Lue huolellisesti [arvosteluperusteista](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/web/arvosteluperusteet.md) mitä loppupalautuksen oletetaan sisältävän dokumentaation ja ohjelmiston osalta!
 
 Dokumentteihin kannattaa ottaa mallia [referenssisovelluksen](https://github.com/mluukkai/OtmTodoApp) dokumenteista.
 
