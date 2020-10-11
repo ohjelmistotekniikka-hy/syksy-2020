@@ -40,7 +40,7 @@ Lisää tiedostoon _pom.xml_ seuraavat
 
 Huomaa, että määrittelyt on lisättävä _Project_-tagien sisälle:
 
-<img src="https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/main/web/images/m-0.png" width="700">
+<img src="https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-syksy-2020/main/web/images/m-0.png" width="700">
 
 Voit nyt suorittaa testauskattavuuden mittaamisen komennolla
 
@@ -56,11 +56,11 @@ Joskus haluamme jättää osan koodista, esim. käyttöliittymän huomioimatta k
 
 Oletetaan, että projekti näyttää seuraavalta
 
-<img src="https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/main/web/images/m-1.png" width="700">
+<img src="https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-syksy-2020/main/web/images/m-1.png" width="700">
 
 oletusarvoisesti testauskattavuus raportoidaan kaikesta koodista
 
-<img src="https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/main/web/images/m-2.png" width="700">
+<img src="https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-syksy-2020/main/web/images/m-2.png" width="700">
 
 Yksittäisen pakkauksen koodit on helppo poistaa raportin alaisuudesta lisäämällä jacoco-pluginin määrittelyyn _excludes_-osa seuraavasti:
 
@@ -104,18 +104,18 @@ Apache Commonsin dokumentaatio ei suoraan kerro, miten koodi saadaan liitettyä 
 
 Googlaamalla "Apache Commons Math Maven" löytyy sivu <https://mvnrepository.com/artifact/org.apache.commons/commons-math3/3.6> joka näyttää seuraavalta
 
-<img src="https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/main/web/images/m-4.png" width="950">
+<img src="https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-syksy-2020/main/web/images/m-4.png" width="950">
 
 Saamme liitettyä kirjaston projektiimme, kopioimalla sivulla olevan _dependency_-määritelmän projektin _pom.xml_-tiedoston osan _dependencies_ alle:
 
-<img src="https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/main/web/images/m-5.png" width="800">
+<img src="https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-syksy-2020/main/web/images/m-5.png" width="800">
 
 Kirjastosta on nyt otettu uusin versio 3.6.1, minkä olemassaolosta _mvnrepository.com_ antoi vihjeen.
 
 Suorittamalla NetBeansissa _Clean and Build_ lataa Maven kirjaston koodin.
 NetBeans-projektin _Dependencies_-kansio varmistaa asian:
 
-<img src="https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/main/web/images/m-6.png" width="400">
+<img src="https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-syksy-2020/main/web/images/m-6.png" width="400">
 
 Voimme nyt käyttää kirjaston luokkia koodissamme:
 
@@ -224,7 +224,7 @@ Jarin generoimiseen tarvitaan seuraava konfiguraatio:
 
 Huomaa, että kohdan _mainClass_ on oltava **täsmälleen sama** kuin pääohjelman sisältävän luokan täydellinen nimi:
 
-<img src="https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/main/web/images/m-3.png" width="700">
+<img src="https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-syksy-2020/main/web/images/m-3.png" width="700">
 
 - Saat nyt luotua jar-tiedoston antamalla komentoriviltä komennon _mvn package_
 - komento luo hakemiston _target_ sisälle kaksi jar-päätteistä tiedostoa, niistä oikea on se, jonka nimessä _ei_ ole sanaa original

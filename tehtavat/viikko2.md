@@ -155,7 +155,7 @@ public class Kassapaate {
 Avaa terminaali, mene palautusrepositoriosi hakemistoon _laskarit/viikko2_ ja suorita seuraavat komennot:
 
 ```bash
-wget https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/main/misc/Unicafe.zip
+wget https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-syksy-2020/main/misc/Unicafe.zip
 unzip Unicafe.zip
 rm Unicafe.zip
 ```
@@ -325,7 +325,7 @@ _jacoco_ suoritetaan komentoriviltä (projektihakemistossa ollessasi) komennolla
 
 Tulokset tulevat projektihakemistosi alihakemistoon **target/site/jacoco/index.html**. Avaa tulokset web-selaimella:
 
-<img src="https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/main/web/images/v2-4.png" width="800">
+<img src="https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-syksy-2020/main/web/images/v2-4.png" width="800">
 
 Useilla selaimilla tämä tapahtuu komennolla **open file**. Laitoksen koneella voit myös avata selaimen terminaalissa menemällä ensin projektihakemistoon ja antamalla komennon **chromium-browser target/site/jacoco/index.html**
 
@@ -335,11 +335,11 @@ Useilla selaimilla tämä tapahtuu komennolla **open file**. Laitoksen koneella 
 
 Maven-komentoja on mahdollista suorittaa myös NetBeansin kautta. Tämä tapahtuu klikkaamalla projektin kohdalla hiiren oikealla napilla:
 
-<img src="https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/main/web/images/v2-6.png" width="600">
+<img src="https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-syksy-2020/main/web/images/v2-6.png" width="600">
 
 "Remember as"-toiminnolla voit tallettaa konfiguroidun maven-komentosarjan:
 
-<img src="https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/main/web/images/v2-5.png" width="600">
+<img src="https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-syksy-2020/main/web/images/v2-5.png" width="600">
 
 ## 4 Maven-projektin hakemistorakenne
 

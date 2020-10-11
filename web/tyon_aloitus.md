@@ -147,7 +147,7 @@ Kloonaus tapahtuu seuraavasti
 - klikkaa kohtaa _clone or download_ ja kopioi kloonausurl
   - varmista että valittuna on "clone with SSH"
 
-<img src="https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/main/web/images/a-1.png" width="700">
+<img src="https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-syksy-2020/main/web/images/a-1.png" width="700">
 
 - mene sopivaan hakemistoon paikallisella koneella
   - **ÄLÄ** kuitenkaan mene minkään git-repositorion sisälle
@@ -186,7 +186,7 @@ and the repository exists.
 
 niin voit siirtyä käyttämään _HTTPS_-muotoista kloonausurlia:
 
-<img src="https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/main/web/images/a-2.png" width="500">
+<img src="https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-syksy-2020/main/web/images/a-2.png" width="500">
 
 joudut poistamaan ensin vanhan kloonausurlin ja lisäämään uuden antamalla seuraavat komennot:
 
@@ -228,12 +228,12 @@ mluukkai@melkki:~/otm-harjoitustyo$
 Harjoitustyössä tehtävä ohjelmisto tehdään maven-projektina. Projektin luominen onnistuu NetBeansin avulla seuraavasti:
 
 - valitse _new project_ ja tee seuraavat valinnat:
-  <img src="https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/main/web/images/a-3.png">
+  <img src="https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-syksy-2020/main/web/images/a-3.png">
 
 - Vaikka käyttäisit JavaFX:ää, kannattaa projektia varten silti luoda "normaali" maven-projekti ellet päätä käyttää [FXML:ää](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/web/java.md#fxml)
 
 - määrittele kentän _Project location_ arvoksi repositoriosi juuri
-  <img src="https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/main/web/images/a-4.png" width="600">
+  <img src="https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-syksy-2020/main/web/images/a-4.png" width="600">
 
 - luo repositoriosi juureen tiedosto _.gitignore_ ja lisää sinne rivi, joka ignoroi luodun projektin hakemiston alle tulevan hakemiston _target_. Omassa esimerkissäni rivi olisi
 
@@ -243,7 +243,7 @@ Pokemontietokanta/target
 
 - lisää muutokset versionhallintaan, commitoi ja pushaa
 - varmista että GitHub-näkymä näyttää suunilleen seuraavalta
-  <img src="https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/main/web/images/a-5.png" width="600">
+  <img src="https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-syksy-2020/main/web/images/a-5.png" width="600">
 
 Pääset oletusarvoisella konfiguraatiolla alkuun. Lisää ohjeita mavenin konfigurointiin [täällä](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/web/maven.md)
 

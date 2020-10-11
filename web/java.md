@@ -113,7 +113,7 @@ public class Numerotiedustelu {
 
 Koodi tulostaa ruudulle komentojen nimet, kysyy käyttäjän syötettä ja suorittaa halutun toimenpiteen:
 
-<img src="https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/main/web/images/j-1.png" width="700">
+<img src="https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-syksy-2020/main/web/images/j-1.png" width="700">
 
 Koodi haarautuu käyttäjän valinnan mukaan if:ssä valitun toimenpiteen suorittavaan metodiin. Esim. jos valinta on 1, suoritetaan tiedot luetteloon lisäävä metodi:
 
@@ -308,7 +308,7 @@ JavaFX tarjoaa myös tavan käyttöliittymän ulkoasun määrittelemiseen lähei
 
 Tarkastellaan yksinkertaista esimerkkiä, graafista noppaa:
 
-<img src="https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/main/web/images/j-2.png" width="400">
+<img src="https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-syksy-2020/main/web/images/j-2.png" width="400">
 
 Esimerkin koodi on kokonaisuudessaan GitHubissa <https://github.com/mluukkai/FXMLExample>
 
@@ -432,7 +432,7 @@ public class MainApp extends Application {
 
 FXML-muotoiset käyttöliittymien näkymät on mahdollista tehdä käsin editoimalla fxml-tiedostoja. Toinen mahdollisuus on käyttää graafista [Scenebuilder](http://gluonhq.com/products/scene-builder/)-editoria käyttöliittymän rakentamiseen.
 
-<img src="https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-kevat-2020/main/web/images/j-3.png" width="800">
+<img src="https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-syksy-2020/main/web/images/j-3.png" width="800">
 
 Scenebuilder integroitui ainakin OSX:ssä automaattisessti NetBeansiin.
 
