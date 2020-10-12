@@ -9,8 +9,13 @@ Jos haluat hyväksilukea kurssin, ota sähköpostilla yhteyttä kurssin vastuuop
 ### Laajuus
 
 - Projektin toteuttamiseen, testaamiseen ja dokumentointiin käytetyn työajan tulee olla vähintään **80 tuntia**
-- Sovelluksessa täytyy toteuttaa jokin käyttöliittymä, esim. komentoriviltä käytettävä tai graafinen käyttöliittymä
+- Sovelluksella täytyy olla jokin käyttöliittymä, esim. komentoriviltä käytettävä tai graafinen käyttöliittymä
 - Projektin sovelluslogiikkaa tulee testata, niin että testien rivi- ja haarautumakattavuus on vähintään 60%. Käyttöliittymään liittyvää koodia ei tarvitse testata, joten sen voi jättää kattavuuden ulkopuolelle. Tälle on kuitenkin se vaatimus, että sovelluslogiikan ja käyttöliittymän koodi ovat erillään toisistaan
+
+### Koodin laatu
+
+- Sovelluksen koodin tulee noudottaa kurssilla määriteltyjä [laatuvaatimuksia](./koodin_laatuvaatimukset.md)
+- Sovelluksen koodin tulee olla suurimmilta osin kommenttien avulla dokumentoituta ohjelmointikielen standardien mukaisesti (esim. Javan [Javadoc](https://en.wikipedia.org/wiki/Javadoc)). Tämä tarkoittaa mm. luokkien, metodien ja funktioiden dokumentointia
 
 ### Versionhallinta ja repositorio
 
