@@ -81,7 +81,7 @@ Jos huomaat tehtävissä tai muussa materiaalissa kirjoitusvirheitä, kirjaudu G
 
 ### viikko 1
 
-Palautuksen deadline ti 17.03. klo 23:59
+Palautuksen deadline ti 03.11. klo 23:59
 
 - Tiistaina 10.03. klo 12-14 kurssin aloitustilaisuus Chemicumissa salissa A110
 - Komentorivi- ja Git-harjoittelu (2p)
@@ -90,7 +90,7 @@ Palautuksen deadline ti 17.03. klo 23:59
 
 ### viikko 2
 
-Palautuksen deadline ti 24.03. klo 23:59
+Palautuksen deadline ti 10.11. klo 23:59
 
 - Harjoitustyön aiheen alustava määrittelydokumentti (1p)
   - katso tarkemmin [täältä](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/tehtavat/harjoitustyo_viikko2.md)
@@ -100,7 +100,7 @@ Palautuksen deadline ti 24.03. klo 23:59
 
 ### viikko 3
 
-Palautuksen deadline ti 31.03. klo 23:59
+Palautuksen deadline ti 17.11. klo 23:59
 
 - Harjoitustyön koodin runko valmiina (2p)
   - katso tarkemmin [täältä](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/tehtavat/harjoitustyo_viikko3.md)
@@ -108,7 +108,7 @@ Palautuksen deadline ti 31.03. klo 23:59
 
 ### viikko 4
 
-Palautuksen deadline ti 07.04. klo 23:59
+Palautuksen deadline ti 24.11. klo 23:59
 
 - Harjoitustyö (3p)
   - Ohjelman perustoiminnallisuus
@@ -119,7 +119,7 @@ Palautuksen deadline ti 07.04. klo 23:59
 
 ### viikko 5
 
-Palautuksen deadline ti 21.04. klo 23:59
+Palautuksen deadline ti 01.12. klo 23:59
 
 - Harjoitustyö (3p)
   - Release 1
@@ -131,7 +131,7 @@ Palautuksen deadline ti 21.04. klo 23:59
 
 ### viikko 6
 
-Palautuksen deadline ti 28.04. klo 23:59
+Palautuksen deadline ti 08.12. klo 23:59
 
 - Harjoitustyö (3p)
   - Release 2
@@ -142,6 +142,6 @@ Palautuksen deadline ti 28.04. klo 23:59
 
 ### viikko 7
 
-Lopullisen palautuksen deadline su 10.05. klo 23:59
+Lopullisen palautuksen deadline su 20.12. klo 23:59
 
 - [loppupalautuksen ohjeet](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/tehtavat/harjoitustyo_viikko7.md)
