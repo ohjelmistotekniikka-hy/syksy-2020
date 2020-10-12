@@ -14,7 +14,7 @@ Jos haluat hyväksilukea kurssin, ota sähköpostilla yhteyttä kurssin vastuuop
 
 ### Koodin laatu
 
-- Sovelluksen koodin tulee noudottaa kurssilla määriteltyjä [laatuvaatimuksia](./koodin_laatuvaatimukset.md)
+- Sovelluksen koodin tulee noudottaa kurssilla määriteltyjä [laatuvaatimuksia](./koodin_laatuvaatimukset.md). Laatuvaatimuksia saattaa joutua soveltamaan ohjelmointikielestä riippuen
 - Sovelluksen koodin tulee olla suurimmilta osin kommenttien avulla dokumentoituta ohjelmointikielen standardien mukaisesti (esim. Javan [Javadoc](https://en.wikipedia.org/wiki/Javadoc)). Tämä tarkoittaa mm. luokkien, metodien ja funktioiden dokumentointia
 
 ### Versionhallinta ja repositorio
@@ -34,4 +34,4 @@ Jokaiseen dokumenttiin tulee olla linkki projektin repositorion `README.md`-tied
 - **Arkkitehtuurikuvaus**, joka on suurin piirtein [referenssisovelluksen](https://github.com/mluukkai/OtmTodoApp/blob/master/dokumentaatio/arkkitehtuuri.md) arkkitehtuurikuvauksen mukainen. Mukana tulee olla vähintään [sovelluslogiikan](https://github.com/mluukkai/OtmTodoApp/blob/master/dokumentaatio/arkkitehtuuri.md#sovelluslogiikka) sanallinen kuvaus ja kaavio. Jos sovellus on erittäin laaja, keskity johonkin olennaiseen kokonaisuuteen
 - **Käyttöohje**, joka on suurin piirtein [referenssisovelluksen](https://github.com/mluukkai/OtmTodoApp/blob/master/dokumentaatio/kayttoohje.md) käyttöohjeen mukainen
 - **Testausdokumentti**, joka on suurin piirtein [referenssisovelluksen](https://github.com/mluukkai/OtmTodoApp/blob/master/dokumentaatio/testaus.md) testausdokumentin mukainen.
-- **Tuntikirjanpito**, josta käy ilmi projektin toteuttamiseen käytetyt työtunnit.[Referenssisovelluksen](https://github.com/mluukkai/OtmTodoApp/blob/master/dokumentaatio/tuntikirjanpito.md) mukainen tuntikirjanpito on ihanteellinen, mutta myös karkeampi taso käy. Tärkeintä on, että tutkikirjanpidosta ilmenee, mihin osa-alueeseen työaikaa on käytetty ja kuinka paljon. Muista, että hyväksiluvun vaatimuksena on vähintään **80 työtuntia**
+- **Tuntikirjanpito**, josta käy ilmi projektin toteuttamiseen käytetyt työtunnit. [Referenssisovelluksen](https://github.com/mluukkai/OtmTodoApp/blob/master/dokumentaatio/tuntikirjanpito.md) mukainen tuntikirjanpito on ihanteellinen, mutta myös karkeampi taso käy. Tärkeintä on, että tutkikirjanpidosta ilmenee, mihin osa-alueeseen työaikaa on käytetty ja kuinka paljon. Muista, että hyväksiluvun vaatimuksena on vähintään **80 työtuntia**
