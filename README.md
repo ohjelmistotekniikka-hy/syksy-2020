@@ -1,4 +1,4 @@
-# Ohjelmistotekniikka, kevät 2020
+# Ohjelmistotekniikka, syksy 2020
 
 _Kurssin nimi on muuttunut syksyllä 2018, tätä aiemmin kurssi tunnettiin nimellä Ohjelmistotekniikan menetelmät_
 
