@@ -84,7 +84,7 @@ Palautuksen deadline ti 03.11. klo 23:59
 
 - Maanantaina 26.10. klo 14-16 aloitustilaisuus etänä [zoomissa](https://helsinki.zoom.us/j/67187303909)
 - Komentorivi- ja Git-harjoittelu (2p)
-  - Pajassa tehtävät tai omatoimiset [tehtävät](https://github.com/ohjelmistotekniikka-hy/syksy-2020/blob/main/tehtavat/viikko1.md)
+  - Pajassa tehtävät tai omatoimiset [tehtävät](/tehtavat/viikko1.md)
 - Tehtävien palautus tapahtuu tekemällä repositorio githubiin ja rekisteröitymällä labtooliin
 
 ### viikko 2
@@ -92,9 +92,9 @@ Palautuksen deadline ti 03.11. klo 23:59
 Palautuksen deadline ti 10.11. klo 23:59
 
 - Harjoitustyön aiheen alustava määrittelydokumentti (1p)
-  - katso tarkemmin [täältä](https://github.com/ohjelmistotekniikka-hy/syksy-2020/blob/main/tehtavat/harjoitustyo_viikko2.md)
+  - katso tarkemmin [täältä](/tehtavat/harjoitustyo_viikko2.md)
 - JUnit-harjoittelu (2p)
-  - Pajassa tehtävät tai omatoimiset [tehtävät](https://github.com/ohjelmistotekniikka-hy/syksy-2020/blob/main/tehtavat/viikko2.md)
+  - Pajassa tehtävät tai omatoimiset [tehtävät](/tehtavat/viikko2.md)
 - Oman projektin koodaus alkaa
 
 ### viikko 3
@@ -102,8 +102,8 @@ Palautuksen deadline ti 10.11. klo 23:59
 Palautuksen deadline ti 17.11. klo 23:59
 
 - Harjoitustyön koodin runko valmiina (2p)
-  - katso tarkemmin [täältä](https://github.com/ohjelmistotekniikka-hy/syksy-2020/blob/main/tehtavat/harjoitustyo_viikko3.md)
-- Pajassa tehtävät tai omatoimiset [tehtävät](https://github.com/ohjelmistotekniikka-hy/syksy-2020/blob/main/tehtavat/viikko3.md) Luokka- ja sekvenssikaaviosta (1p)
+  - katso tarkemmin [täältä](/tehtavat/harjoitustyo_viikko3.md)
+- Pajassa tehtävät tai omatoimiset [tehtävät]/tehtavat/viikko3.md) Luokka- ja sekvenssikaaviosta (1p)
 
 ### viikko 4
 
@@ -114,7 +114,7 @@ Palautuksen deadline ti 24.11. klo 23:59
   - Testien aloitus
   - Alustava rakenne luokkakaaviona
   - Checkstyle otettu käyttöön
-- Tarkemmat ohjeet [täältä](https://github.com/ohjelmistotekniikka-hy/syksy-2020/blob/main/tehtavat/harjoitustyo_viikko4.md)
+- Tarkemmat ohjeet [täältä](/tehtavat/harjoitustyo_viikko4.md)
 
 ### viikko 5
 
@@ -124,9 +124,9 @@ Palautuksen deadline ti 01.12. klo 23:59
   - Release 1
   - Testikattavuus nousee
   - Jotain päätoiminnallisuutta kuvaava sekvenssikaavio
-- Tarkemmat ohjeet [täältä](https://github.com/ohjelmistotekniikka-hy/syksy-2020/blob/main/tehtavat/harjoitustyo_viikko5.md)
+- Tarkemmat ohjeet [täältä](/tehtavat/harjoitustyo_viikko5.md)
 - Koodikatselmointi (2p)
-  - [Koodikatselmointi](https://github.com/ohjelmistotekniikka-hy/syksy-2020/blob/main/web/koodikatselmointi.md)
+  - [Koodikatselmointi](/web/koodikatselmointi.md)
 
 ### viikko 6
 
@@ -137,10 +137,10 @@ Palautuksen deadline ti 08.12. klo 23:59
   - Testikattavuus nousee
   - JavaDoc aloitettu
   - Alustava versio arkkitehtuuridokumentista
-- Tarkemmat ohjeet [täältä](https://github.com/ohjelmistotekniikka-hy/syksy-2020/blob/main/tehtavat/harjoitustyo_viikko6.md)
+- Tarkemmat ohjeet [täältä](/tehtavat/harjoitustyo_viikko6.md)
 
 ### viikko 7
 
 Lopullisen palautuksen deadline su 20.12. klo 23:59
 
-- [loppupalautuksen ohjeet](https://github.com/ohjelmistotekniikka-hy/syksy-2020/blob/main/tehtavat/harjoitustyo_viikko7.md)
+- [loppupalautuksen ohjeet](/tehtavat/harjoitustyo_viikko7.md)
