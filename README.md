@@ -83,7 +83,7 @@ Jos huomaat tehtävissä tai muussa materiaalissa kirjoitusvirheitä, kirjaudu G
 
 Palautuksen deadline ti 03.11. klo 23:59
 
-- Maanantaina 26.10. klo 14-16 aloitustilaisuus etänä
+- Maanantaina 26.10. klo 14-16 aloitustilaisuus etänä, zoom-linkki tulee tänne pian
 - Komentorivi- ja Git-harjoittelu (2p)
   - Pajassa tehtävät tai omatoimiset [tehtävät](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/tehtavat/viikko1.md)
 - Tehtävien palautus tapahtuu tekemällä repositorio githubiin ja rekisteröitymällä labtooliin
