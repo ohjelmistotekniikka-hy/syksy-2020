@@ -58,17 +58,17 @@ Valitse _File > New project > Java with Maven / Java Application > next_
 
 Anna projektille nimeksi esim. _Maksukortti_ ja poista _Package_ kentässä oleva teksti:
 
-![](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/raw/master/web/images/v2-2new.png)
+![](https://github.com/ohjelmistotekniikka-hy/syksy-2020/raw/master/web/images/v2-2new.png)
 
 luo luokka Maksukortti ja copypastea siihen yllä oleva koodi. Lopputuloksen pitäisi näytää seuraavalta:
 
-![](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/raw/master/web/images/v2-2b.png)
+![](https://github.com/ohjelmistotekniikka-hy/syksy-2020/raw/master/web/images/v2-2b.png)
 
 Seuraavaksi aloitetaan testien luominen. Klikataan projektia hiiren oikealla näppäimellä ja valitaan _new > other > Unit Tests > JUnit test > next_. Annetaan testiluokalle nimi, esim. MaksukorttiTest. Huomaa, että testiluokan nimen on pakko päättyä sanaan Test.
 
 Jos toimit oikein testi ilmestyy projektin sisälle kohdan Test Packages alle:
 
-![](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/raw/master/web/images/v2-4b.png)
+![](https://github.com/ohjelmistotekniikka-hy/syksy-2020/raw/master/web/images/v2-4b.png)
 
 Eli varsinainen koodi kirjotetaan Source Packages:in alle ja testit Test Packages:in alle.
 
@@ -76,7 +76,7 @@ Ohjeissa käytetään JUnitin versiota 4.12, mutta TMCBeans käyttää oletuksen
 
 Klikataan projektia hiiren oikealla näppäimellä ja valitaan _Open POM_
 
-![](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/raw/master/web/images/v2-openPom.png)
+![](https://github.com/ohjelmistotekniikka-hy/syksy-2020/raw/master/web/images/v2-openPom.png)
 
 Kopioi alla oleva junit 4.12 dependency _pom.xml_ tiedostossa olevan _dependencies_ lohkon sisään ja poista org.junit.jupiter dependencyt.
 
@@ -91,7 +91,7 @@ Kopioi alla oleva junit 4.12 dependency _pom.xml_ tiedostossa olevan _dependenci
 
 Tämän jälkeen _pom.xml_ tiedoston pitäisi näyttää suurinpiirtein tältä:
 
-![](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/raw/master/web/images/v2-pom.png)
+![](https://github.com/ohjelmistotekniikka-hy/syksy-2020/raw/master/web/images/v2-pom.png)
 
 ### Aloitetaan testien kirjoittaminen
 

@@ -12,13 +12,13 @@ Tee palautuksia varten repositorion sisällä olevaan hakemistoon _laskarit_ uus
 
 Viikon palautuksista on tarjolla yksi kurssipiste. Pisteytys arvioidaan palautuksen laadun perusteella.
 
-Huomaa, että tällä viikolla on myös harjoitustyöhön liittyviä [tavoitteita](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/tehtavat/harjoitustyo_viikko3.md)
+Huomaa, että tällä viikolla on myös harjoitustyöhön liittyviä [tavoitteita](https://github.com/ohjelmistotekniikka-hy/syksy-2020/blob/main/tehtavat/harjoitustyo_viikko3.md)
 
 ## Mallivastaukset
 
 ## Luokkakaaviot
 
-Kertaa luokkakaavioihin liittyvät asiat [kurssimateriaalista](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/web/materiaali.md#luokkakaaviot).
+Kertaa luokkakaavioihin liittyvät asiat [kurssimateriaalista](https://github.com/ohjelmistotekniikka-hy/syksy-2020/blob/main/web/materiaali.md#luokkakaaviot).
 
 Luokkakaavioiden piirtoon helpoin työkalu on <http://yuml.me/>, jos haluat ammattimaisempaa jälkeä on <https://draw.io/> hyvä (tätä tehtävää varten se ei kuitenkaan liene vaivan arvoista). Myös valokuva käsin piirretyistä kaavioista riittää.
 
@@ -56,7 +56,7 @@ Normaaleille kaduille voi rakentaa korkeintaan 4 taloa tai yhden hotellin. Kadun
 
 ## Sekvenssikaaviot
 
-Kertaa sekvenssikaavioihin liittyvät asiat [kurssimateriaalista](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/web/materiaali.md#sekvenssikaaviot).
+Kertaa sekvenssikaavioihin liittyvät asiat [kurssimateriaalista](https://github.com/ohjelmistotekniikka-hy/syksy-2020/blob/main/web/materiaali.md#sekvenssikaaviot).
 
 Sekvenssikaavioiden piirtoon paras työkalu lienee <https://www.websequencediagrams.com/>. Myös valokuva käsin piirretyistä kaavioista riittää.
 

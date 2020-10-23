@@ -14,15 +14,15 @@ Kurssin oppimistavoitteet ovat edelleen suunnilleen samat kuin aiemmin. Kurssin 
 
 Kurssin suoritusmuoto poikkeaa radikaalisti aiemmasta viikoittaiset luennot ja laskuharjoitukset sisältävästä kurssista, nykyinen OTM muistuttaakin läheisesti entistä Ohjelmoinnin harjoitustyötä.
 
-Kurssin ensimmäisen kolmen viikon aikana harjoitellaan versionhallintaa, yksikkötestausta sekä UML-kaavioiden tekemistä. Toisesta viikosta alkaen aloitetaan oman harjoitustyön tekeminen. Harjoitustyön tekemisen ohessa osoitetaan riittävä osaaminen kurssin oppimistavoitteiden suhteen, koetta kurssilla ei ole. Tarkemmat arvosteluperusteet [täällä](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/web/arvosteluperusteet.md).
+Kurssin ensimmäisen kolmen viikon aikana harjoitellaan versionhallintaa, yksikkötestausta sekä UML-kaavioiden tekemistä. Toisesta viikosta alkaen aloitetaan oman harjoitustyön tekeminen. Harjoitustyön tekemisen ohessa osoitetaan riittävä osaaminen kurssin oppimistavoitteiden suhteen, koetta kurssilla ei ole. Tarkemmat arvosteluperusteet [täällä](https://github.com/ohjelmistotekniikka-hy/syksy-2020/blob/main/web/arvosteluperusteet.md).
 
-Tälle sivulle on koottu erinäistä asiaa liittyen kurssin "teoriaan" sekä erinäisiin menetelmiin, kuten UML-kaavioihin. Sivu kannattaa lukea kokonaisuudessaan heti ensimmäisen viikon aikana, tosin luvusta [Työkaluja](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/web/materiaali.md#työkaluja) alkaen olevaa asiaa tarvitaan oikeastaan vasta viikosta 2 eteenpäin.
+Tälle sivulle on koottu erinäistä asiaa liittyen kurssin "teoriaan" sekä erinäisiin menetelmiin, kuten UML-kaavioihin. Sivu kannattaa lukea kokonaisuudessaan heti ensimmäisen viikon aikana, tosin luvusta [Työkaluja](https://github.com/ohjelmistotekniikka-hy/syksy-2020/blob/main/web/materiaali.md#työkaluja) alkaen olevaa asiaa tarvitaan oikeastaan vasta viikosta 2 eteenpäin.
 
-Ohjeita työn aloittamiseen [täällä](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/web/tyon_aloitus.md)
+Ohjeita työn aloittamiseen [täällä](https://github.com/ohjelmistotekniikka-hy/syksy-2020/blob/main/web/tyon_aloitus.md)
 
 # Kirjoitusvirheitä
 
-Jos huomaat tehtävissä tai muussa materiaalissa kirjoitusvirheitä, kirjaudu GitHubiin ja toimi [täällä](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/web/typokorjaukset.md) olevan ohjeen mukaan.
+Jos huomaat tehtävissä tai muussa materiaalissa kirjoitusvirheitä, kirjaudu GitHubiin ja toimi [täällä](https://github.com/ohjelmistotekniikka-hy/syksy-2020/blob/main/web/typokorjaukset.md) olevan ohjeen mukaan.
 
 # Ohjelmistotuotanto
 
@@ -152,7 +152,7 @@ Tarvitsemme ohjelmisokehityksessä suuren joukon käytännön työkaluja.
 
 ## Komentorivi ja Versionhallinta
 
-Olet jo ehkä käyttänyt muilla kursseilla komentoriviä ja versionhallintaa, molemmat ovat tärkeässä roolissa ohjelmistokehityksessä ja niiden harjoittelu on aiheena viikon 1 [tehtävissä](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/tehtavat/viikko1.md).
+Olet jo ehkä käyttänyt muilla kursseilla komentoriviä ja versionhallintaa, molemmat ovat tärkeässä roolissa ohjelmistokehityksessä ja niiden harjoittelu on aiheena viikon 1 [tehtävissä](https://github.com/ohjelmistotekniikka-hy/syksy-2020/blob/main/tehtavat/viikko1.md).
 
 ## Maven
 
@@ -162,14 +162,14 @@ Alamme tämän kurssin myötä hieman tutkimaan, miten Javalla tehdyn ohjelmisto
 
 Java-projektien hallinnointiin on olemassa muutamakin vaihtoehto. Käytämme tällä kurssilla _mavenia_, joka lienee jo useimmille osittain tuttu esim. Tietokantojen perusteista.
 
-[Ohje](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/web/maven.md)
+[Ohje](https://github.com/ohjelmistotekniikka-hy/syksy-2020/blob/main/web/maven.md)
 Mavenin käytön aloittamiseen.
 
 ## JUnit
 
 Ohjelmistojen testaus tapahtuu nykyään ainakin yksikkö- ja integraatiotestien osalta automatisoitujen testityökalujen toimesta. Java-maailmassa testausta dominoi lähes yksinvaltiaan tavoin JUnit. Tulet kurssin ja myöhempienkin opintojesi aikana kirjoittamaan paljon JUnit-testejä.
 
-JUnitiin tutustumme viikon 2 [tehtävissä](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/tehtavat/viikko2.md).
+JUnitiin tutustumme viikon 2 [tehtävissä](https://github.com/ohjelmistotekniikka-hy/syksy-2020/blob/main/tehtavat/viikko2.md).
 
 ## JavaDoc
 
@@ -191,7 +191,7 @@ Käytämme kurssilla tarkoitukseen [Checkstyle](http://checkstyle.sourceforge.ne
 
 > Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. It automates the process of checking Java code to spare humans of this boring (but important) task. This makes it ideal for projects that want to enforce a coding standard.
 
-[Ohje](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/web/checkstyle.md) checkstylen konfiguroimiseen.
+[Ohje](https://github.com/ohjelmistotekniikka-hy/syksy-2020/blob/main/web/checkstyle.md) checkstylen konfiguroimiseen.
 
 ## UML
 
@@ -768,4 +768,4 @@ Katso lisää Todo-sovelluksen [arkkitehtuurikuvauksesta](https://github.com/mlu
 
 # Ohjelmiston toteutus
 
-Muutamia käyttöliittymän ja tietojen tallettamisen toteuttamiseen sekä sovelluksen konfigurointiin liittyviä vihjeitä on koottu [tänne](https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020/blob/main/web/java.md)
+Muutamia käyttöliittymän ja tietojen tallettamisen toteuttamiseen sekä sovelluksen konfigurointiin liittyviä vihjeitä on koottu [tänne](https://github.com/ohjelmistotekniikka-hy/syksy-2020/blob/main/web/java.md)

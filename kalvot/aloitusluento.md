@@ -16,7 +16,7 @@
 
 . . .
 
-- Kurssimateriaali https://github.com/mluukkai/ohjelmistotekniikka-syksy-2020
+- Kurssimateriaali https://github.com/ohjelmistotekniikka-hy/syksy-2020
 
 # Suoritusmuoto
 
