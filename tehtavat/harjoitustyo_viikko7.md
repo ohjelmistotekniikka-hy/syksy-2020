@@ -1,6 +1,6 @@
 # Harjoitustyö, loppupalautus
 
-**Loppupalautuksen deadline sunnuntaina 10.05. klo 23:59. Älä palauta myöhässä, deadline on ehdoton!**
+**Loppupalautuksen deadline sunnuntaina 20.12. klo 23:59. Älä palauta myöhässä, deadline on ehdoton!**
 
 - Jos sinulla on joku erittäin hyvä syy palautuksen myöhästymiseen, ota yhteyttä viimeistään tiistaina niin voit saada lisäaikaa.
 

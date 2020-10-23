@@ -1,6 +1,6 @@
 # Viikon 3 laskarit
 
-Tehtävät on tarkoitus tehdä joko pajassa tai omatoimisesti. Tehtävien palautuksen deadline on _tiistaina 31.3. klo 23:59_
+Tehtävät on tarkoitus tehdä joko pajassa tai omatoimisesti. Tehtävien palautuksen deadline on _tiistaina 17.11. klo 23:59_
 
 Tehtävät palautetaan Githubin avulla Labtooliin rekisteröimääsi repositorioon.
 

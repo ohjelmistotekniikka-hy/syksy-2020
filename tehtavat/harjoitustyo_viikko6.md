@@ -1,6 +1,6 @@
 # Harjoitustyö, viikko 6
 
-Palautuksen deadline **ti 28.04. klo 23:59**.
+Palautuksen deadline **ti 08.12. klo 23:59**.
 
 **Muutama huomio**
 

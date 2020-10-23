@@ -1,6 +1,6 @@
 # Viikon 2 laskarit
 
-Tehtävät on tarkoitus tehdä joko pajassa tai omatoimisesti. Tehtävien palautuksen deadline on ti 24.03 klo 23:59
+Tehtävät on tarkoitus tehdä joko pajassa tai omatoimisesti. Tehtävien palautuksen deadline on ti 10.11 klo 23:59
 
 Tehtävät palautetaan GitHubin avulla Labtoolin rekisteröimääsi repositorioon.
 

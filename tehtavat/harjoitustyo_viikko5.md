@@ -1,6 +1,6 @@
 # Harjoitustyö, viikko 5
 
-Palautuksen deadline tiistai 21.04. klo 23:59
+Palautuksen deadline tiistai 01.12. klo 23:59
 
 **HUOM** jotta voisit osallistua viikolla 6 pidettävään koodikatselmointiin (josta tarjolla 2 kurssipistettä)
 

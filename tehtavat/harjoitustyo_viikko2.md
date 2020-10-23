@@ -1,6 +1,6 @@
 # Harjoitustyö, viikko 2
 
-Palautuksen deadline tiistaina 24.03 klo 23:59
+Palautuksen deadline tiistaina 10.11 klo 23:59
 
 Muista pushata tehtävät GitHubiin ennen viikkodeadlinea. Myöhässä tehty palautus ei tuo pisteitä.
 
