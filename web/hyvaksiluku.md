@@ -1,6 +1,6 @@
 # Kurssin hyväksiluku
 
-Kurssi on mahdollista _hyväksilukea_, eli ansaita opintopisteet hyväksytyllä arvosanalla. Hyväksiluvun vaatimuksena on ohjelmointiprojektin toteutus ja dokumentointi. Projektin toteutuksessa käytetty ohjelmointikieli on vapaasti valittavissa, kunhan ohjelman suorittamiseen vaadittavat toimenpiteet on dokumentoitu.
+Kurssi on mahdollista _hyväksilukea_, eli ansaita opintopisteet arvosanalla _hyväksytty_. Hyväksiluvun vaatimuksena on ohjelmointiprojektin toteutus ja dokumentointi. Projektin toteutuksessa käytetty ohjelmointikieli on vapaasti valittavissa, kunhan ohjelman suorittamiseen vaadittavat toimenpiteet on dokumentoitu.
 
 Jos haluat hyväksilukea kurssin, ota sähköpostilla yhteyttä kurssin vastuuopettajaan Matti Luukkaiseen (matti.luukkainen@helsinki.fi).
 
@@ -35,3 +35,4 @@ Jokaiseen dokumenttiin tulee olla linkki projektin repositorion `README.md`-tied
 - **Käyttöohje**, joka on suurin piirtein [referenssisovelluksen](https://github.com/mluukkai/OtmTodoApp/blob/master/dokumentaatio/kayttoohje.md) käyttöohjeen mukainen
 - **Testausdokumentti**, joka on suurin piirtein [referenssisovelluksen](https://github.com/mluukkai/OtmTodoApp/blob/master/dokumentaatio/testaus.md) testausdokumentin mukainen.
 - **Tuntikirjanpito**, josta käy ilmi projektin toteuttamiseen käytetyt työtunnit. [Referenssisovelluksen](https://github.com/mluukkai/OtmTodoApp/blob/master/dokumentaatio/tuntikirjanpito.md) mukainen tuntikirjanpito on ihanteellinen, mutta myös karkeampi taso käy. Tärkeintä on, että tutkikirjanpidosta ilmenee, mihin osa-alueeseen työaikaa on käytetty ja kuinka paljon. Muista, että hyväksiluvun vaatimuksena on vähintään **80 työtuntia**
+- Tuntikirjanpidon voi myös korvata vakuuttavalla selvityksellä siitä, että työhön on käytetty ainakin 80 tuntia aikaa.
