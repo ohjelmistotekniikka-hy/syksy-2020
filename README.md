@@ -22,19 +22,17 @@ Jos huomaat tehtävissä tai muussa materiaalissa kirjoitusvirheitä, kirjaudu G
 
 - Kurssin ainoa luento ma 26.10. klo 14-16 etänä [zoomissa](https://helsinki.zoom.us/j/67187303909)
 - Sovellus tehdään käyttämällä Javan versiota 11. [Asennusohjeet](https://www.mooc.fi/fi/installation/netbeans)
-- Kurssista on nyt myös olemassa betatestausvaiheessa oleva [python-versio](https://github.com/ohjelmistotekniikka-hy/python-syksy-2020/blob/master/README.md)
+- Kurssista on nyt myös olemassa betatestausvaiheessa oleva [Python-versio](https://github.com/ohjelmistotekniikka-hy/python-syksy-2020/blob/master/README.md)
   - Python-version suortittaminen omalla vastuulla. Ohjelmoinnin perusteiden suorittaminen Pythonilla ei riitä esitiedoksi! Olio-ohjelmointi on syytä hallita
 - Kurssin Telegram-kanava: [https://t.me/tktlotm](https://t.me/tktlotm)
-  - [Telegram](https://telegram.org/) on whatsappin/messengerin tyylinen keskustelufoorumisovellus jota on mahdollista käyttää selaimella, mobiililaitteilla ja Windows/Linux/OSX-clienteillä
   - **Huom:** kaikki epäasialliset, halventavat ja jotain ihmisryhmää syrjivät kommentit kanavalla ovat kiellettyjä ja tälläisten kommenttien esittäjät poistetaan kanavalta
 - Jos tarvitset kurssiin liittyvää ohjausta, tule zoom-pajaan:
-    - ma 14-16 (2.11. alkaen)
     - ti 14-16 (3.11. alkaen)
     - pe 12-14
   - Myös Telegramissa voi kysellä erityisesti arkisin klo 9-16
   - **Jos kysymys koskee koodia tai siinä esiintyviä virhetilanteita, kannattaa laittaa kysymyksen yhteyteen linkki omaan repositorioosi.** Ilman koodin näkemistä ongelman selvittäminen on hankalaa tai jopa mahdotonta.
   - Jos et halua kysyä kysymystä suoraan kurssin kanavalla, voit ottaa yhteyttä suoraan "telegram-vastaavaan" Kalle Ilvekseen. Pääasiassa kysymykset kannattaa kuitenkin esittää kanavalla, sillä samat ongelmat koskevat usein useampaakin opiskelijaa
-- Jos olet jo toteuttaunut isohkoja ohjelmistoja, on kurssi tietyissä tapauksissa mahdollista [hyväksilukea](https://github.com/ohjelmistotekniikka-hy/syksy-2020/blob/main/web/hyvaksiluku.md))
+- Jos olet jo toteuttaunut isohkoja ohjelmistoja, on kurssi tietyissä tapauksissa mahdollista [hyväksilukea](https://github.com/ohjelmistotekniikka-hy/syksy-2020/blob/main/web/hyvaksiluku.md)
 
 ## Harjoitustyön toimivuus
 
@@ -78,7 +76,8 @@ Jos huomaat tehtävissä tai muussa materiaalissa kirjoitusvirheitä, kirjaudu G
 
 ## Pajaohjauksen aikatauluja
 
-#### Pajaohjaus on päätetty keskeyttää toistaiseksi
+- ti 14-16 (3.11. alkaen) [zoom]()
+- pe 12-14 [zoom]()
 
 ## Aikataulu
 
