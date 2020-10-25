@@ -1,12 +1,18 @@
 # Viikon 1 tehtävät
 
-Tehtävät on tarkoitus tehdä joko pajassa tai omatoimisesti. Tehtävien palautuksen deadline on tiistai 03.11. klo 23:59
+Tehtävät on tarkoitus tehdä joko pajassa tai omatoimisesti. Tehtävien palautuksen deadline on tiistai 3.11. klo 23:59
 
 Tehtävät palautetaan Githubin ja Labtoolin avulla. Lisää palautuksesta myöhemmin. Osa tehtävistä ei näy palautuksesta mitenkään. Niiden tekemättä jättäminen näkyy puuttuvana osaamisena ja saattaa aiheuttaa myöhemmin hankaluuksia.
 
 Viikon palautuksista on tarjolla 2 pistettä. Pisteytys arvioidaan palautuksen laadun perusteella.
 
 Muista pushata tehtävät GitHubiin ennen viikkodeadlinea. Myöhässä tehty palautus ei tuo pisteitä.
+
+Ohjausta tehtäviin zoom-pajassa:
+
+- ti 14-16 (3.11. alkaen) [zoom]()
+- to 16-17 [zoom]()
+- pe 12-14 [zoom]()
 
 ## Komentorivin harjoittelua
 
