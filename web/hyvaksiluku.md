@@ -1,6 +1,6 @@
 # Kurssin hyväksiluku
 
-Kurssi on mahdollista _hyväksilukea_, eli ansaita opintopisteet hyväksytyllä arvosanalla. Hyväksiluvun vaatimuksena on ohjelmointiprojektin toteutus ja dokumentointi. Projektin toteutuksessa käytetty ohjelmointikieli on vapaasti valittavissa, kunhan ohjelman suorittamiseen vaadittavat toimenpiteet on dokumentoitu.
+Kurssi on mahdollista _hyväksilukea_, eli ansaita opintopisteet arvosanalla _hyväksytty_. Hyväksiluvun vaatimuksena on ohjelmointiprojektin toteutus ja dokumentointi. Projektin toteutuksessa käytetty ohjelmointikieli on vapaasti valittavissa, kunhan ohjelman suorittamiseen vaadittavat toimenpiteet on dokumentoitu.
 
 Jos haluat hyväksilukea kurssin, ota sähköpostilla yhteyttä kurssin vastuuopettajaan Matti Luukkaiseen (matti.luukkainen@helsinki.fi).
 
