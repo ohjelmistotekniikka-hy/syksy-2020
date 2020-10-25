@@ -29,7 +29,7 @@ Jos huomaat tehtävissä tai muussa materiaalissa kirjoitusvirheitä, kirjaudu G
 - Jos tarvitset kurssiin liittyvää ohjausta, tule zoom-pajaan:
     - ti 14-16 (3.11. alkaen) [zoom]()
     - to 16-18 [zoom]()
-    - pe 12-14 [zoom]()
+    - pe 12-14 [zoom](https://helsinki.zoom.us/j/66469543131?pwd=VGNGZ21KMXNyZ0FlKzErMW5OaS90Zz09)
   - Myös Telegramissa voi kysellä erityisesti arkisin klo 9-16
   - **Jos kysymys koskee koodia tai siinä esiintyviä virhetilanteita, kannattaa laittaa kysymyksen yhteyteen linkki omaan repositorioosi.** Ilman koodin näkemistä ongelman selvittäminen on hankalaa tai jopa mahdotonta.
   - Jos et halua kysyä kysymystä suoraan kurssin kanavalla, voit ottaa yhteyttä suoraan "telegram-vastaavaan" Kalle Ilvekseen. Pääasiassa kysymykset kannattaa kuitenkin esittää kanavalla, sillä samat ongelmat koskevat usein useampaakin opiskelijaa
@@ -79,7 +79,7 @@ Jos huomaat tehtävissä tai muussa materiaalissa kirjoitusvirheitä, kirjaudu G
 
 - ti 14-16 (3.11. alkaen) [zoom]()
 - to 16-18 [zoom]()
-- pe 12-14 [zoom]()
+- pe 12-14 [zoom](https://helsinki.zoom.us/j/66469543131?pwd=VGNGZ21KMXNyZ0FlKzErMW5OaS90Zz09)
 
 ## Aikataulu
 
