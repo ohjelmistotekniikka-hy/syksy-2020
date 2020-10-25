@@ -11,7 +11,7 @@ Muista pushata tehtävät GitHubiin ennen viikkodeadlinea. Myöhässä tehty pal
 Ohjausta tehtäviin zoom-pajassa:
 
 - ti 14-16 (3.11. alkaen) [zoom]()
-- to 16-17 [zoom]()
+- to 16-18 [zoom]()
 - pe 12-14 [zoom]()
 
 ## Komentorivin harjoittelua

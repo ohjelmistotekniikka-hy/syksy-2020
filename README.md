@@ -28,7 +28,7 @@ Jos huomaat tehtävissä tai muussa materiaalissa kirjoitusvirheitä, kirjaudu G
   - **Huom:** kaikki epäasialliset, halventavat ja jotain ihmisryhmää syrjivät kommentit kanavalla ovat kiellettyjä ja tälläisten kommenttien esittäjät poistetaan kanavalta
 - Jos tarvitset kurssiin liittyvää ohjausta, tule zoom-pajaan:
     - ti 14-16 (3.11. alkaen) [zoom]()
-    - to 16-17 [zoom]()
+    - to 16-18 [zoom]()
     - pe 12-14 [zoom]()
   - Myös Telegramissa voi kysellä erityisesti arkisin klo 9-16
   - **Jos kysymys koskee koodia tai siinä esiintyviä virhetilanteita, kannattaa laittaa kysymyksen yhteyteen linkki omaan repositorioosi.** Ilman koodin näkemistä ongelman selvittäminen on hankalaa tai jopa mahdotonta.
@@ -78,7 +78,7 @@ Jos huomaat tehtävissä tai muussa materiaalissa kirjoitusvirheitä, kirjaudu G
 ## Pajaohjauksen aikatauluja
 
 - ti 14-16 (3.11. alkaen) [zoom]()
-- to 16-17 [zoom]()
+- to 16-18 [zoom]()
 - pe 12-14 [zoom]()
 
 ## Aikataulu
