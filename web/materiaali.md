@@ -1,4 +1,4 @@
-# Ohjelmistotekniikka kevät 2020
+# Ohjelmistotekniikka syksy 2020
 
 Keväästä 2018 alkaen Ohjelmistotekniikka (vanhalta nimeltään Ohjelmistotekniikan menetelmät) on siirtynyt aineopintoihin. Kurssin esitietoina on Ohjelmoinnin jatkokurssi sekä Tietokantojen perusteet. Oletuksena on, että molemmista kursseista on käyty suhteellisen tuore versio ja että molempien aihepiiri on vielä hyvin mielessä.
 
