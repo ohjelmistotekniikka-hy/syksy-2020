@@ -48,8 +48,8 @@
   - Viikkodeadlinet 17p
     - osa viikkopisteistä tulee laskareista
   - Koodikatselmointi 2p
-  - Dokumentaatio 10p
-  - Testaus 7p
+  - Dokumentaatio 12p
+  - Testaus 5p
   - Lopullinen ohjelma 24p
     - laajuus, ominaisuudet ja koodin laatu
 - Arvosanaan 1 riittää 30 pistettä, arvosanaan 5 tarvitaan noin 55 pistettä.
