@@ -87,7 +87,7 @@ Jos huomaat tehtävissä tai muussa materiaalissa kirjoitusvirheitä, kirjaudu G
 
 Palautuksen deadline ti 03.11. klo 23:59
 
-- Maanantaina 26.10. klo 14-16 aloitustilaisuus etänä [zoomissa](https://helsinki.zoom.us/j/67187303909)
+- Maanantaina 26.10. klo 14-16 aloitustilaisuus [tallenne](https://youtu.be/JaM4hbns2P8)
 - Komentorivi- ja Git-harjoittelu (2p)
   - Pajassa tehtävät tai omatoimiset [tehtävät](/tehtavat/viikko1.md)
 - Tehtävien palautus tapahtuu tekemällä repositorio githubiin ja rekisteröitymällä labtooliin
