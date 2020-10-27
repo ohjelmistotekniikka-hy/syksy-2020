@@ -100,7 +100,7 @@ Vaikka ylläoleva puhuu versionhallinnasta ohjelmistotiimien yhteydessä, kannat
 
 Nykyään suosituin versionhallintaohjelmisto on [git](https://git-scm.com). Tutustumme tänään gitin alkeisiin.
 
-**HUOM** tämä tehtävä tulee tehdä Linuxilla tai Macilla, jolle on asennettu Git. Helpointa lienee tehdä tehtävä laitoksen koneella. Git kannattaa joka tapauksessa asentaa omalle koneelle. Gitin voi asentaa myös Windowsille.
+**HUOM** tämä tehtävä tulee tehdä Linuxilla tai Macilla, jolle on asennettu Git. Helpointa lienee tehdä tehtävä laitoksen koneella. Git kannattaa joka tapauksessa asentaa omalle koneelle. Gitin voi asentaa myös Windowsille ja sen käyttö onnistuu esimerkiksi käyttämällä [Windows Subsystem for Linux](https://tkt-lapio.github.io/#windows-subsystem-for-linux) -työkalua.
 
 ## Gitin alkeet
 
