@@ -148,7 +148,7 @@ Tämän kurssin harjoitustyö pyritään tekemään osittain ketterien menetelmi
 
 # Työkaluja
 
-Tarvitsemme ohjelmisokehityksessä suuren joukon käytännön työkaluja.
+Tarvitsemme ohjelmistokehityksessä suuren joukon käytännön työkaluja.
 
 ## Komentorivi ja Versionhallinta
 
