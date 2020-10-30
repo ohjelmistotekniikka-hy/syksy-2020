@@ -272,7 +272,7 @@ Sekä muutos että uusi tiedosto ovat nyt valmiina committoitavaksi.
 
 Committointi onnistuu komennolla _git commit_. Kuten edelliselläkin kerralla, annetaan komennolle parametrina _commit-viesti_, eli merkkijono, joka kuvaa mitä muutoksia uusi commit tuo edelliseen nähden:
 
-<code>git commit -m"muutos ja lisäys"</code>
+<code>git commit -m "muutos ja lisäys"</code>
 
 Tarkasta committoinnin jälkeen jälleen tilanne komennolla _git status_.
 
