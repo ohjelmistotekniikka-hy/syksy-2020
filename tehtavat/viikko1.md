@@ -54,7 +54,7 @@ Kirjauduttuasi laitoksen palvelimelle, tee seuraavat toimenpiteet:
 - luo kotihakemistoosi hakemisto _kurssit_
   - **HUOM** joidenkin kohdalla melkillä on ollut ongelmia kotihakemiston asetuksissa ja esim. hakemiston luomisen seurauksena on virhe 'permission denied'. Jos törmäät ongelmaan, lähetä viesti osoitteeseen _it-support@cs.helsinki.fi_ ja raportoi ongelmaksi "ei oikeuksia kotihakemistoon melkillä"
   - kokeile myös jos kirjaantuminen toiselle koneelle, esim. _melkinpaasi.cs.helsinki.fi_ tuottaisi paremman tuloksen
-- luo hakemistolle _kurssit_ alihakemisto _ot2019_
+- luo hakemistolle _kurssit_ alihakemisto _ot2020_
 - ja luomallesi hakemistolle alihakemisto _viikko1_
 - mene kotihakemistoosi ja luo sen alle hakemisto _temp_
 - mene hakemistoon _temp_
@@ -63,7 +63,7 @@ Kirjauduttuasi laitoksen palvelimelle, tee seuraavat toimenpiteet:
 - haettu tiedosto on _zip-paketti_, pura se _unzip_-ohjelmalla
   - myös unzip toimii siten, että sille annetaan purettava tiedosto parametriksi
 - komennon suorittamisen jälkeen hakemistoon on ilmestynyt hakemisto _Unicafe_
-- siirrä hakemisto hakemiston _kurssit/ot2019/viikko1_ alihakemistoksi
+- siirrä hakemisto hakemiston _kurssit/ot2020/viikko1_ alihakemistoksi
 - poista zip-paketti
 - poista hakemisto _temp_
 - mene nyt uudessa paikassa olevaan hakemistoon _Unicafe_
@@ -78,7 +78,7 @@ Komentoriviä käyttäessä kannattaa ehdottomasti totutella _tab-completen_ kä
 
 ![](https://github.com/mluukkai/otm2016/raw/master/img/tab.jpg)
 
-Tab:ia painamalla voit komentorivillä täydentää kirjoittamasi komennon nimen tai parametrin. Esim. jos olet siirtymässä hakemistoon nimeltään _ohjelmistotekniikka-kevat-2019_, riittää, että kirjoitat <code>cd oh</code> ja painat tabia. Jos hakemistossasi ei ole muita tiedostoja tai hakemistoja, jotka alkavat merkeillä _oh_, nimi täydentyy. Jos on, niin voit joutua kirjoittamaan merkin tai kaksi lisää. Jos tiedostoja on useampia etkä ole varma oikeasta nimestä, painamalla tabia useamman kerran näet mahdolliset vaihtoehdot.
+Tab:ia painamalla voit komentorivillä täydentää kirjoittamasi komennon nimen tai parametrin. Esim. jos olet siirtymässä hakemistoon nimeltään _ohjelmistotekniikka-syksy-2020_, riittää, että kirjoitat <code>cd oh</code> ja painat tabia. Jos hakemistossasi ei ole muita tiedostoja tai hakemistoja, jotka alkavat merkeillä _oh_, nimi täydentyy. Jos on, niin voit joutua kirjoittamaan merkin tai kaksi lisää. Jos tiedostoja on useampia etkä ole varma oikeasta nimestä, painamalla tabia useamman kerran näet mahdolliset vaihtoehdot.
 
 Myös komentojen nimet voi täydentää tab-completella. Esim. haluat avat _chromium-browser_ web-selaimen komentoriviltä, riittää että kirjoitat <code>chro</code> ja painat tabia. Komennon nimi täydentyy.
 
