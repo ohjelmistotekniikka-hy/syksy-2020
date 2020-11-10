@@ -27,7 +27,7 @@ Jos huomaat tehtävissä tai muussa materiaalissa kirjoitusvirheitä, kirjaudu G
 - Kurssin Telegram-kanava: [https://t.me/tktlotm](https://t.me/tktlotm)
   - **Huom:** kaikki epäasialliset, halventavat ja jotain ihmisryhmää syrjivät kommentit kanavalla ovat kiellettyjä ja tälläisten kommenttien esittäjät poistetaan kanavalta
 - Jos tarvitset kurssiin liittyvää ohjausta, tule zoom-pajaan:
-    - ti 14-16 (3.11. alkaen) [zoom]()
+    - ti 14-16 (3.11. alkaen) [zoom](https://helsinki.zoom.us/j/6804771662)
     - to 16-18 [zoom](https://helsinki.zoom.us/j/65601404745)
     - pe 12-14 [zoom](https://helsinki.zoom.us/j/66469543131?pwd=VGNGZ21KMXNyZ0FlKzErMW5OaS90Zz09)
   - Myös Telegramissa voi kysellä erityisesti arkisin klo 9-16
