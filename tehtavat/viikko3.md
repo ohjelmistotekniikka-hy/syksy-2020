@@ -20,7 +20,7 @@ Huomaa, että tällä viikolla on myös harjoitustyöhön liittyviä [tavoitteit
 
 Kertaa luokkakaavioihin liittyvät asiat [kurssimateriaalista](https://github.com/ohjelmistotekniikka-hy/syksy-2020/blob/main/web/materiaali.md#luokkakaaviot).
 
-Luokkakaavioiden piirtoon helpoin työkalu on <http://yuml.me/>, jos haluat ammattimaisempaa jälkeä on <https://draw.io/> hyvä (tätä tehtävää varten se ei kuitenkaan liene vaivan arvoista). Myös valokuva käsin piirretyistä kaavioista riittää.
+Luokkakaavioiden piirtoon helpoin työkalu on <http://yuml.me/>, jos haluat ammattimaisempaa jälkeä on <https://app.diagrams.net/> hyvä (tätä tehtävää varten se ei kuitenkaan liene vaivan arvoista). Myös valokuva käsin piirretyistä kaavioista riittää.
 
 ### 1
 
