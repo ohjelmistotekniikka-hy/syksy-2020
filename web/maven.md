@@ -165,7 +165,7 @@ Javan versiosta 8 alkaen graafisten käyttöliittymien tekoon tarkoitettu osa ki
 <dependency>
     <groupId>org.openjfx</groupId>
     <artifactId>javafx-controls</artifactId>
-    <version>12.0.2</version>
+    <version>15</version>
 </dependency>
 ```
 
@@ -175,7 +175,7 @@ ja osioon _plugins_ seuraava
 <plugin>
     <groupId>org.openjfx</groupId>
     <artifactId>javafx-maven-plugin</artifactId>
-    <version>0.0.3</version>
+    <version>0.0.5</version>
     <configuration>
         <mainClass>org.openjfx.App</mainClass>
     </configuration>
