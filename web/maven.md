@@ -188,6 +188,12 @@ Käyttäessäsi Javan versiota 8, mavenin lisäkonfiguraatiota ei tarvita. Tosin
 
 JavaFX aiheuttaa hankaluuksia myös seuraavassa luvussa esitettyyn jar-tiedostojen generointiin, eräs tapa ongelmien kiertämiseen on kerrottu sitä seuraavassa luvussa [täällä](https://github.com/ohjelmistotekniikka-hy/syksy-2020/blob/main/web/maven.md#javafx-ja-jar).
 
+### Ongelmia javaFX kanssa
+
+Jos JavaFX käyttöliittymäsi näyttää seuraavalaiselta, niin siihen on yhtenä ratkaisuna vaihtaa `pom.xml` tiedostossa olevan javafx-controls:in versioksi 15.0.1.
+
+<img src="../web/images/java_fx_artefact.jpg" width=400>
+
 ## Jarin generointi
 
 Maven-muotoinen projekti voidaan helposti paketoida [jar-paketiksi](<https://en.wikipedia.org/wiki/JAR_(file_format)>), jolloin ohjelmaa voidaan suorittaa NetBeansin ulkopuolelta.
