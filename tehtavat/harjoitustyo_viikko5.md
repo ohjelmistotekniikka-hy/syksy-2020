@@ -6,7 +6,7 @@ Palautuksen deadline tiistai 01.12. klo 23:59
 
 - viikon 5 deadlinen jälkeen tulee palautusrepositoriosta löytyä osan määrittelydokumentin käyttäjälle näkyvää toiminnallisuutta toteuttava toimiva versio harjoitustyöstä
 - viikon 5 palautuksesta tulee saada enemmän kuin 0 pistettä
-- palautusrepositorioistasi on GitHub-issuet saalittuna, ks. [ohje](https://github.com/ohjelmistotekniikka-hy/syksy-2020/blob/main/tehtavat/harjoitustyo_viikko5.md#issueiden-salliminen)
+- palautusrepositorioistasi on GitHub-issuet sallittuna, ks. [ohje](https://github.com/ohjelmistotekniikka-hy/syksy-2020/blob/main/tehtavat/harjoitustyo_viikko5.md#issueiden-salliminen)
 
 Muista pushata harjoitustyöhön liittyvät asiat GitHubiin ennen viikkodeadlinea.
 
