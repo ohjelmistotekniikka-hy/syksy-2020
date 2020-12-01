@@ -8,7 +8,7 @@ _Katselmointiin käytettyä aikaa ei merkata työaikakirjanpitoon_
 
 ## Ohjeet
 
-Katselmointi alkaa ke 02.12. klo 23:59, jonka jälkeen _viimeistään_ näet sinulle osoitetun katselmointikohteen repositoriolinkin labtoolista
+Katselmointi alkaa ke 09.12. klo 23:59, jonka jälkeen _viimeistään_ näet sinulle osoitetun katselmointikohteen repositoriolinkin labtoolista
 
 Tehtävänäsi on lukea läpi toisen opiskelijan harjoitustyö ja antaa siitä rakentavaa palautetta. Ohjelmaa kannattaa kokeilla myös suorittaa.
 
