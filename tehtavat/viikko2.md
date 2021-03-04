@@ -34,7 +34,7 @@ Huomaa, että tällä viikolla on myös harjoitustyöhön liittyviä [tavoitteit
 
 Tämän tehtävän projekti _ladataan internetistä_ hieman alempana olevan ohjeen mukaan.
 
-Ohjelmoinnin perusteiden viikolla [5 tehtävissä 101](https://www.cs.helsinki.fi/group/java/s16-materiaali/viikko5/#101maksukortti_ja_kassapaate) toteutettiin "tyhmä" Maksukortti ja Kassapääte.
+Ohjelmoinnin perusteiden viikolla [5 tehtävässä 101](https://www.cs.helsinki.fi/group/java/s16-materiaali/viikko5/#101maksukortti_ja_kassapaate) toteutettiin "tyhmä" Maksukortti ja Kassapääte.
 
 Rahan käsittely double-tyyppisenä on hiukan ongelmallista. Seuraavassa rahaa käsitellän kokonaislukuna ja kaikki rahamäärät talletetaan eurojen sijasta sentteinä.
 
@@ -160,7 +160,7 @@ unzip Unicafe.zip
 rm Unicafe.zip
 ```
 
-**HUOM** jos käytät Windowsia ja koneellasi ei ole käytössä komentoa _wget_ lataa tehtävän koodi klikkaamalla yo. linkkiä. Muista siirtää projekti repositorion alle oikeaan hakemistoon!
+**HUOM** jos käytät Windowsia ja koneellasi ei ole käytössä komentoa _wget_ lataa tehtävän koodi klikkaamalla tätä [linkkiä](https://raw.githubusercontent.com/mluukkai/ohjelmistotekniikka-syksy-2020/main/misc/Unicafe.zip). Muista siirtää projekti repositorion alle oikeaan hakemistoon!
 
 Lisää ja commitoi hakemisto repositorioon.
 
